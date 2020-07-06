@@ -1,0 +1,421 @@
+Beast Ball
+Dive Ball
+Dream Ball
+Dusk Ball
+Fast Ball
+Friend Ball
+Great Ball
+Heal Ball
+Heavy Ball
+Level Ball
+Love Ball
+Lure Ball
+Luxury Ball
+Master Ball
+Moon Ball
+Nest Ball
+Net Ball
+Poké Ball
+Premier Ball
+Quick Ball
+Repeat Ball
+Safari Ball
+Sport Ball
+Timer Ball
+Ultra Ball
+Berry Sweet
+Chipped Pot
+Clover Sweet
+Cracked Pot
+Dawn Stone
+Dragon Scale
+Dubious Disc
+Dusk Stone
+Fire Stone
+Flower Sweet
+Ice Stone
+King's Rock
+Leaf Stone
+Love Sweet
+Metal Coat
+Moon Stone
+Oval Stone
+Prism Scale
+Protector
+Razor Claw
+Reaper Cloth
+Ribbon Sweet
+Sachet
+Shiny Stone
+Star Sweet
+Strawberry Sweet
+Sun Stone
+Sweet Apple
+Tart Apple
+Thunderstone
+Up-Grade
+Water Stone
+Whipped Dream
+Ability Capsule
+Adamant Mint
+Adrenaline Orb
+☆And15
+☆And458
+Armorite Ore
+BalmMushroom
+Big Mushroom
+Big Nugget
+Big Pearl
+Black Apricorn
+Blue Apricorn
+Bold Mint
+Bottle Cap
+Brave Mint
+Calm Mint
+Careful Mint
+Comet Shard
+Escape Rope
+Galarica Cuff
+Galarica Twig
+Gentle Mint
+Gold Bottle Cap
+Green Apricorn
+Hasty Mint
+Honey
+Impish Mint
+Jolly Mint
+Lax Mint
+Lonely Mint
+Max Repel
+Mild Mint
+Modest Mint
+Naive Mint
+Naughty Mint
+Nugget
+Pearl
+Pearl String
+Pink Apricorn
+Poké Doll
+Pretty Feather
+Quiet Mint
+Rare Bone
+Rash Mint
+Red Apricorn
+Relaxed Mint
+Repel
+Sassy Mint
+Serious Mint
+Star Piece
+Stardust
+Super Repel
+Timid Mint
+TinyMushroom
+White Apricorn
+Wishing Piece
+Yellow Apricorn
+Antidote
+Awakening
+Berry Juice
+Big Malasada
+Burn Heal
+Casteliacone
+Elixir
+EnergyPowder
+Energy Root
+Ether
+Fresh Water
+Full Heal
+Full Restore
+Heal Powder
+Hyper Potion
+Ice Heal
+Lava Cookie
+Lemonade
+Lumiose Galette
+Max Elixir
+Max Ether
+Max Potion
+Max Revive
+Moomoo Milk
+Old Gateau
+Parlyze Heal
+Pewter Crunchies
+Potion
+Rage Candy Bar
+Revival Herb
+Revive
+Shalour Sable
+Soda Pop
+Super Potion
+Sweet Heart
+Dire Hit
+Guard Spec.
+X Accuracy
+X Attack
+X Defense
+X Sp. Atk
+X Sp. Def
+X Speed
+Fossilized Bird
+Fossilized Dino
+Fossilized Drake
+Fossilized Fish
+Aguav Berry
+Apicot Berry
+Aspear Berry
+Babiri Berry
+Charti Berry
+Cheri Berry
+Chesto Berry
+Chilan Berry
+Chople Berry
+Coba Berry
+Colbur Berry
+Figy Berry
+Ganlon Berry
+Grepa Berry
+Haban Berry
+Hondew Berry
+Iapapa Berry
+Kasib Berry
+Kebia Berry
+Kee Berry
+Kelpsy Berry
+Lansat Berry
+Leppa Berry
+Liechi Berry
+Lum Berry
+Mago Berry
+Maranga Berry
+Occa Berry
+Oran Berry
+Passho Berry
+Payapa Berry
+Pecha Berry
+Persim Berry
+Petaya Berry
+Pomeg Berry
+Qualot Berry
+Rawst Berry
+Rindo Berry
+Roseli Berry
+Salac Berry
+Shuca Berry
+Sitrus Berry
+Starf Berry
+Tamato Berry
+Tanga Berry
+Wacan Berry
+Wiki Berry
+Yache Berry
+Absorb Bulb
+Air Balloon
+Amulet Coin
+Assault Vest
+Berry Sweet
+Big Root
+Binding Band
+Black Belt
+Black Glasses
+Black Sludge
+Blunder Policy
+BrightPowder
+Bug Memory
+Cell Battery
+Charcoal
+Choice Band
+Choice Scarf
+Choice Specs
+Cleanse Tag
+Clover Sweet
+Damp Rock
+Dark Memory
+Destiny Knot
+Dragon Fang
+Dragon Memory
+Dubious Disc
+Eject Button
+Eject Pack
+Electric Memory
+Electric Seed
+Everstone
+Eviolite
+Expert Belt
+Fairy Memory
+Fighting Memory
+Fire Memory
+Flame Orb
+Float Stone
+Flower Sweet
+Flying Memory
+Focus Band
+Focus Sash
+Full Incense
+Ghost Memory
+Grass Memory
+Grassy Seed
+Grip Claw
+Ground Memory
+Hard Stone
+Heat Rock
+Heavy-Duty Boots
+Ice Memory
+Icy Rock
+Iron Ball
+King's Rock
+Lagging Tail
+Lax Incense
+Leek
+Leftovers
+Life Orb
+Light Ball
+Light Clay
+Love Sweet
+Luck Incense
+Lucky Egg
+Luminous Moss
+Macho Brace
+Magnet
+Mental Herb
+Metal Coat
+Metal Powder
+Metronome
+Miracle Seed
+Misty Seed
+Muscle Band
+Mystic Water
+Never-Melt Ice
+Normal Gem
+Odd Incense
+Pixie Plate
+Poison Barb
+Poison Memory
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Weight
+Protective Pads
+Protector
+Psychic Memory
+Psychic Seed
+Pure Incense
+Quick Claw
+Quick Powder
+Razor Claw
+Reaper Cloth
+Red Card
+Ribbon Sweet
+Ring Target
+Rock Incense
+Rock Memory
+Rocky Helmet
+Room Service
+Rose Incense
+Rusted Shield
+Rusted Sword
+Safety Goggles
+Scope Lens
+Sea Incense
+Sharp Beak
+Shed Shell
+Shell Bell
+Silk Scarf
+SilverPowder
+Smoke Ball
+Smooth Rock
+Snowball
+Soft Sand
+Soothe Bell
+Spell Tag
+Star Sweet
+Steel Memory
+Sticky Barb
+Strawberry Sweet
+Terrain Extender
+Thick Club
+Throat Spray
+Toxic Orb
+TwistedSpoon
+Utility Umbrella
+Water Memory
+Wave Incense
+Weakness Policy
+White Herb
+Wide Lens
+Wise Glasses
+Zoom Lens
+Calcium
+Carbos
+Clever Feather
+Dynamax Candy
+Exp. Candy L
+Exp. Candy M
+Exp. Candy S
+Exp. Candy XL
+Exp. Candy XS
+Genius Feather
+HP Up
+Health Feather
+Iron
+Muscle Feather
+PP Max
+PP Up
+Protein
+Rare Candy
+Resist Feather
+Swift Feather
+Zinc
+Bach's Food Tin
+Bob's Food Tin
+Boiled Egg
+Bread
+Brittle Bones
+Coconut Milk
+Fancy Apple
+Fresh Cream
+Fried Food
+Fruit Bunch
+Gigantamix
+Instant Noodles
+Large Leek
+Max Mushrooms
+Mixed Mushrooms
+Moomoo Cheese
+Pack of Potatoes
+Packaged Curry
+Pasta
+Precooked Burger
+Pungent Root
+Salad Mix
+Sausages
+Smoke-Poke Tail
+Spice Mix
+Tin of Beans
+Adventure Guide
+Camping Gear
+Catching Charm
+DNA Splicers
+Dynamax Band
+Endorsement
+Escape Rope
+Exp. Charm
+Hi-tech Earbuds
+Mark Charm
+N-Lunarizer
+N-Lunarizer
+N-Solarizer
+N-Solarizer
+Old Letter
+Oval Charm
+Pokémon Box Link
+Rage Candy Bar
+Rotom Bike
+Rotom Catalog
+Shiny Charm
+Sonia's Book
+Style Card
+Wishing Star
+

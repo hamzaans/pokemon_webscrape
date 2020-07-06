@@ -1,0 +1,3625 @@
+[
+    {
+        "name": "Grookey",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/810.png",
+        "abilities": [
+            "Overgrow",
+            "Grassy Surge"
+        ]
+    },
+    {
+        "name": "Thwackey",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/811.png",
+        "abilities": [
+            "Overgrow",
+            "Grassy Surge"
+        ]
+    },
+    {
+        "name": "Rillaboom",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/812.png",
+        "abilities": [
+            "Overgrow",
+            "Grassy Surge"
+        ]
+    },
+    {
+        "name": "Scorbunny",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/813.png",
+        "abilities": [
+            "Blaze",
+            "Libero"
+        ]
+    },
+    {
+        "name": "Raboot",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/814.png",
+        "abilities": [
+            "Blaze",
+            "Libero"
+        ]
+    },
+    {
+        "name": "Cinderace",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/815.png",
+        "abilities": [
+            "Blaze",
+            "Libero"
+        ]
+    },
+    {
+        "name": "Sobble",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/816.png",
+        "abilities": [
+            "Torrent",
+            "Sniper"
+        ]
+    },
+    {
+        "name": "Drizzile",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/817.png",
+        "abilities": [
+            "Torrent",
+            "Sniper"
+        ]
+    },
+    {
+        "name": "Inteleon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/818.png",
+        "abilities": [
+            "Torrent",
+            "Sniper"
+        ]
+    },
+    {
+        "name": "Blipbug",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/824.png",
+        "abilities": [
+            "Swarm",
+            "Compoundeyes",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Dottler",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/825.png",
+        "abilities": [
+            "Swarm",
+            "Compoundeyes",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Orbeetle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/826.png",
+        "abilities": [
+            "Swarm",
+            "Frisk",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Caterpie",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/010.png",
+        "abilities": [
+            "Shield Dust",
+            "Run Away"
+        ]
+    },
+    {
+        "name": "Metapod",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/011.png",
+        "abilities": [
+            "Shed Skin"
+        ]
+    },
+    {
+        "name": "Butterfree",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/012.png",
+        "abilities": [
+            "Compoundeyes",
+            "Tinted Lens"
+        ]
+    },
+    {
+        "name": "Grubbin",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/736.png",
+        "abilities": [
+            "Swarm"
+        ]
+    },
+    {
+        "name": "Charjabug",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/737.png",
+        "abilities": [
+            "Battery"
+        ]
+    },
+    {
+        "name": "Vikavolt",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/738.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Hoothoot",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/163.png",
+        "abilities": [
+            "Insomnia",
+            "Keen Eye",
+            "Tinted Lens"
+        ]
+    },
+    {
+        "name": "Noctowl",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/164.png",
+        "abilities": [
+            "Insomnia",
+            "Keen Eye",
+            "Tinted Lens"
+        ]
+    },
+    {
+        "name": "Rookidee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/821.png",
+        "abilities": [
+            "Keen Eye",
+            "Unnerve",
+            "Big Pecks"
+        ]
+    },
+    {
+        "name": "Corvisquire",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/822.png",
+        "abilities": [
+            "Keen Eye",
+            "Unnerve",
+            "Big Pecks"
+        ]
+    },
+    {
+        "name": "Corviknight",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/823.png",
+        "abilities": [
+            "Pressure",
+            "Unnerve",
+            "Mirror Armor"
+        ]
+    },
+    {
+        "name": "Skwovet",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/819.png",
+        "abilities": [
+            "Cheek Pouch",
+            "Gluttony"
+        ]
+    },
+    {
+        "name": "Greedent",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/820.png",
+        "abilities": [
+            "Cheek Pouch",
+            "Gluttony"
+        ]
+    },
+    {
+        "name": "Pidove",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/519.png",
+        "abilities": [
+            "Big Pecks",
+            "Super Luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "name": "Tranquill",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/520.png",
+        "abilities": [
+            "Big Pecks",
+            "Super Luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "name": "Unfezant",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/521.png",
+        "abilities": [
+            "Big Pecks",
+            "Super Luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "name": "Nickit",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/827.png",
+        "abilities": [
+            "Run Away",
+            "Unburden",
+            "Stakeout"
+        ]
+    },
+    {
+        "name": "Thievul",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/828.png",
+        "abilities": [
+            "Run Away",
+            "Unburden",
+            "Stakeout"
+        ]
+    },
+    {
+        "name": "Zigzagoon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/263-g.png",
+        "abilities": [
+            "Pickup",
+            "Gluttony",
+            "Quick Feet"
+        ]
+    },
+    {
+        "name": "Linoone",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/264-g.png",
+        "abilities": [
+            "Pickup",
+            "Gluttony",
+            "Quick Feet"
+        ]
+    },
+    {
+        "name": "Obstagoon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/862.png",
+        "abilities": [
+            "Reckless",
+            "Guts",
+            "Defiant"
+        ]
+    },
+    {
+        "name": "Wooloo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/831.png",
+        "abilities": [
+            "Fluffy",
+            "Run Away",
+            "Bulletproof"
+        ]
+    },
+    {
+        "name": "Dubwool",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/832.png",
+        "abilities": [
+            "Fluffy",
+            "Steadfast",
+            "Bulletproof"
+        ]
+    },
+    {
+        "name": "Lotad",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/270.png",
+        "abilities": [
+            "Swift Swim",
+            "Rain Dish",
+            "Own Tempo"
+        ]
+    },
+    {
+        "name": "Lombre",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/271.png",
+        "abilities": [
+            "Swift Swim",
+            "Rain Dish",
+            "Own Tempo"
+        ]
+    },
+    {
+        "name": "Ludicolo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/272.png",
+        "abilities": [
+            "Swift Swim",
+            "Rain Dish",
+            "Own Tempo"
+        ]
+    },
+    {
+        "name": "Seedot",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/273.png",
+        "abilities": [
+            "Chlorophyll",
+            "Early Bird",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Nuzleaf",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/274.png",
+        "abilities": [
+            "Chlorophyll",
+            "Early Bird",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Shiftry",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/275.png",
+        "abilities": [
+            "Chlorophyll",
+            "Early Bird",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Chewtle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/833.png",
+        "abilities": [
+            "Strong Jaw",
+            "Shell Armor",
+            "Swift Swim"
+        ]
+    },
+    {
+        "name": "Drednaw",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/834.png",
+        "abilities": [
+            "Strong Jaw",
+            "Shell Armor",
+            "Swift Swim"
+        ]
+    },
+    {
+        "name": "Purrloin",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/509.png",
+        "abilities": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ]
+    },
+    {
+        "name": "Liepard",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/510.png",
+        "abilities": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ]
+    },
+    {
+        "name": "Yamper",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/835.png",
+        "abilities": [
+            "Ball Fetch",
+            "Rattled"
+        ]
+    },
+    {
+        "name": "Boltund",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/836.png",
+        "abilities": [
+            "Strong Jaw",
+            "Competitive"
+        ]
+    },
+    {
+        "name": "Bunnelby",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/659.png",
+        "abilities": [
+            "Pickup",
+            "Cheek Pouch",
+            "Huge Power"
+        ]
+    },
+    {
+        "name": "Diggersby",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/660.png",
+        "abilities": [
+            "Pickup",
+            "Cheek Pouch",
+            "Huge Power"
+        ]
+    },
+    {
+        "name": "Minccino",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/572.png",
+        "abilities": [
+            "Cute Charm",
+            "Technician",
+            "Skill Link"
+        ]
+    },
+    {
+        "name": "Cinccino",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/573.png",
+        "abilities": [
+            "Cute Charm",
+            "Technician",
+            "Skill Link"
+        ]
+    },
+    {
+        "name": "Bounsweet",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/761.png",
+        "abilities": [
+            "Leaf Guard",
+            "Oblivious",
+            "Sweet Veil"
+        ]
+    },
+    {
+        "name": "Steenee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/762.png",
+        "abilities": [
+            "Leaf Guard",
+            "Oblivious",
+            "Sweet Veil"
+        ]
+    },
+    {
+        "name": "Tsareena",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/763.png",
+        "abilities": [
+            "Leaf Guard",
+            "Queenly Majesty",
+            "Sweet Veil"
+        ]
+    },
+    {
+        "name": "Oddish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/043.png",
+        "abilities": [
+            "Chlorophyll",
+            "Run Away"
+        ]
+    },
+    {
+        "name": "Gloom",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/044.png",
+        "abilities": [
+            "Chlorophyll",
+            "Stench"
+        ]
+    },
+    {
+        "name": "Vileplume",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/045.png",
+        "abilities": [
+            "Chlorophyll",
+            "Effect Spore"
+        ]
+    },
+    {
+        "name": "Bellossom",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/182.png",
+        "abilities": [
+            "Chlorophyll",
+            "Healer"
+        ]
+    },
+    {
+        "name": "Budew",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/406.png",
+        "abilities": [
+            "Natural Cure",
+            "Poison Point",
+            "Leaf Guard"
+        ]
+    },
+    {
+        "name": "Roselia",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/315.png",
+        "abilities": [
+            "Natural Cure",
+            "Poison Point",
+            "Leaf Guard"
+        ]
+    },
+    {
+        "name": "Roserade",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/407.png",
+        "abilities": [
+            "Natural Cure",
+            "Poison Point",
+            "Technician"
+        ]
+    },
+    {
+        "name": "Wingull",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/278.png",
+        "abilities": [
+            "Keen Eye",
+            "Hydration",
+            "Rain Dish"
+        ]
+    },
+    {
+        "name": "Pelipper",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/279.png",
+        "abilities": [
+            "Keen Eye",
+            "Drizzle",
+            "Rain Dish"
+        ]
+    },
+    {
+        "name": "Joltik",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/595.png",
+        "abilities": [
+            "Compoundeyes",
+            "Unnerve",
+            "Swarm"
+        ]
+    },
+    {
+        "name": "Galvantula",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/596.png",
+        "abilities": [
+            "Compoundeyes",
+            "Unnerve",
+            "Swarm"
+        ]
+    },
+    {
+        "name": "Electrike",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/309.png",
+        "abilities": [
+            "Static",
+            "Lightning Rod",
+            "Minus"
+        ]
+    },
+    {
+        "name": "Manectric",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/310.png",
+        "abilities": [
+            "Static",
+            "Lightning Rod",
+            "Minus"
+        ]
+    },
+    {
+        "name": "Vulpix",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/037.png",
+        "abilities": [
+            "Flash Fire",
+            "Drought"
+        ]
+    },
+    {
+        "name": "Ninetales",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/038.png",
+        "abilities": [
+            "Flash Fire",
+            "Drought"
+        ]
+    },
+    {
+        "name": "Growlithe",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/058.png",
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ]
+    },
+    {
+        "name": "Arcanine",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/059.png",
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ]
+    },
+    {
+        "name": "Vanillite",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/582.png",
+        "abilities": [
+            "Ice Body",
+            "Snow Cloak",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Vanillish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/583.png",
+        "abilities": [
+            "Ice Body",
+            "Snow Cloak",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Vanilluxe",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/584.png",
+        "abilities": [
+            "Ice Body",
+            "Snow Warning",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Swinub",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/220.png",
+        "abilities": [
+            "Oblivious",
+            "Snow Cloak",
+            "Thick Fat"
+        ]
+    },
+    {
+        "name": "Piloswine",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/221.png",
+        "abilities": [
+            "Oblivious",
+            "Snow Cloak",
+            "Thick Fat"
+        ]
+    },
+    {
+        "name": "Mamoswine",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/473.png",
+        "abilities": [
+            "Oblivious",
+            "Snow Cloak",
+            "Thick Fat"
+        ]
+    },
+    {
+        "name": "Delibird",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/225.png",
+        "abilities": [
+            "Vital Spirit",
+            "Hustle",
+            "Insomnia"
+        ]
+    },
+    {
+        "name": "Snorunt",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/361.png",
+        "abilities": [
+            "Inner Focus",
+            "Ice Body",
+            "Moody"
+        ]
+    },
+    {
+        "name": "Glalie",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/362.png",
+        "abilities": [
+            "Inner Focus",
+            "Ice Body",
+            "Moody"
+        ]
+    },
+    {
+        "name": "Froslass",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/478.png",
+        "abilities": [
+            "Snow Cloak",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Baltoy",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/343.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Claydol",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/344.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Mudbray",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/749.png",
+        "abilities": [
+            "Own Tempo",
+            "Stamina",
+            "Inner Focus"
+        ]
+    },
+    {
+        "name": "Mudsdale",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/750.png",
+        "abilities": [
+            "Own Tempo",
+            "Stamina",
+            "Inner Focus"
+        ]
+    },
+    {
+        "name": "Dwebble",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/557.png",
+        "abilities": [
+            "Sturdy",
+            "Shell Armor",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Crustle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/558.png",
+        "abilities": [
+            "Sturdy",
+            "Shell Armor",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Golett",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/622.png",
+        "abilities": [
+            "Iron Fist",
+            "Klutz",
+            "No Guard"
+        ]
+    },
+    {
+        "name": "Golurk",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/623.png",
+        "abilities": [
+            "Iron Fist",
+            "Klutz",
+            "No Guard"
+        ]
+    },
+    {
+        "name": "Munna",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/517.png",
+        "abilities": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Musharna",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/518.png",
+        "abilities": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Natu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/177.png",
+        "abilities": [
+            "Synchronize",
+            "Early Bird",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Xatu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/178.png",
+        "abilities": [
+            "Synchronize",
+            "Early Bird",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Stufful",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/759.png",
+        "abilities": [
+            "Fluffy",
+            "Klutz",
+            "Cute Charm"
+        ]
+    },
+    {
+        "name": "Bewear",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/760.png",
+        "abilities": [
+            "Fluffy",
+            "Klutz",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Snover",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/459.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },
+    {
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },
+    {
+        "name": "Krabby",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/098.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Sheer Force"
+        ]
+    },
+    {
+        "name": "Kingler",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/099.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Sheer Force"
+        ]
+    },
+    {
+        "name": "Wooper",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/194.png",
+        "abilities": [
+            "Damp",
+            "Water Absorb",
+            "Unaware"
+        ]
+    },
+    {
+        "name": "Quagsire",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/195.png",
+        "abilities": [
+            "Damp",
+            "Water Absorb",
+            "Unaware"
+        ]
+    },
+    {
+        "name": "Corphish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/341.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Adaptability"
+        ]
+    },
+    {
+        "name": "Crawdaunt",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/342.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Shell Armor",
+            "Adaptability"
+        ]
+    },
+    {
+        "name": "Nincada",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/290.png",
+        "abilities": [
+            "Compoundeyes",
+            "Run Away"
+        ]
+    },
+    {
+        "name": "Ninjask",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/291.png",
+        "abilities": [
+            "Speed Boost",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Shedinja",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/292.png",
+        "abilities": [
+            "Wonder Guard"
+        ]
+    },
+    {
+        "name": "Tyrogue",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/236.png",
+        "abilities": [
+            "Guts",
+            "Steadfast",
+            "Vital Spirit"
+        ]
+    },
+    {
+        "name": "Hitmonlee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/106.png",
+        "abilities": [
+            "Limber",
+            "Reckless",
+            "Unburden"
+        ]
+    },
+    {
+        "name": "Hitmonchan",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/107.png",
+        "abilities": [
+            "Keen Eye",
+            "Iron Fist",
+            "Inner Focus"
+        ]
+    },
+    {
+        "name": "Hitmontop",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/237.png",
+        "abilities": [
+            "Intimidate",
+            "Technician",
+            "Steadfast"
+        ]
+    },
+    {
+        "name": "Pancham",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/674.png",
+        "abilities": [
+            "Iron Fist",
+            "Mold Breaker",
+            "Scrappy"
+        ]
+    },
+    {
+        "name": "Pangoro",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/675.png",
+        "abilities": [
+            "Iron Fist",
+            "Mold Breaker",
+            "Scrappy"
+        ]
+    },
+    {
+        "name": "Klink",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/599.png",
+        "abilities": [
+            "Plus",
+            "Minus",
+            "Clear Body"
+        ]
+    },
+    {
+        "name": "Klang",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/600.png",
+        "abilities": [
+            "Plus",
+            "Minus",
+            "Clear Body"
+        ]
+    },
+    {
+        "name": "Klinklang",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/601.png",
+        "abilities": [
+            "Plus",
+            "Minus",
+            "Clear Body"
+        ]
+    },
+    {
+        "name": "Combee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/415.png",
+        "abilities": [
+            "Honey Gather",
+            "Hustle"
+        ]
+    },
+    {
+        "name": "Vespiquen",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/416.png",
+        "abilities": [
+            "Pressure",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Bronzor",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/436.png",
+        "abilities": [
+            "Levitate",
+            "Heatproof",
+            "Heavy Metal"
+        ]
+    },
+    {
+        "name": "Bronzong",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/437.png",
+        "abilities": [
+            "Levitate",
+            "Heatproof",
+            "Heavy Metal"
+        ]
+    },
+    {
+        "name": "Ralts",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/280.png",
+        "abilities": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Kirlia",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/281.png",
+        "abilities": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Gardevoir",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/282.png",
+        "abilities": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Gallade",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/475.png",
+        "abilities": [
+            "Steadfast",
+            "Justified"
+        ]
+    },
+    {
+        "name": "Drifloon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/425.png",
+        "abilities": [
+            "Aftermath",
+            "Unburden",
+            "Flare Boost"
+        ]
+    },
+    {
+        "name": "Drifblim",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/426.png",
+        "abilities": [
+            "Aftermath",
+            "Unburden",
+            "Flare Boost"
+        ]
+    },
+    {
+        "name": "Gossifleur",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/829.png",
+        "abilities": [
+            "Cotton Down",
+            "Regenerator",
+            "Effect Spore"
+        ]
+    },
+    {
+        "name": "Eldegoss",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/830.png",
+        "abilities": [
+            "Cotton Down",
+            "Regenerator",
+            "Effect Spore"
+        ]
+    },
+    {
+        "name": "Cherubi",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/420.png",
+        "abilities": [
+            "Chlorophyll"
+        ]
+    },
+    {
+        "name": "Cherrim",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/421.png",
+        "abilities": [
+            "Flower Gift"
+        ]
+    },
+    {
+        "name": "Stunky",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/434.png",
+        "abilities": [
+            "Stench",
+            "Aftermath",
+            "Keen Eye"
+        ]
+    },
+    {
+        "name": "Skuntank",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/435.png",
+        "abilities": [
+            "Stench",
+            "Aftermath",
+            "Keen Eye"
+        ]
+    },
+    {
+        "name": "Tympole",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/535.png",
+        "abilities": [
+            "Swift Swim",
+            "Hydration",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Palpitoad",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/536.png",
+        "abilities": [
+            "Swift Swim",
+            "Hydration",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Seismitoad",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/537.png",
+        "abilities": [
+            "Swift Swim",
+            "Poison Touch",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Duskull",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/355.png",
+        "abilities": [
+            "Levitate",
+            "Frisk"
+        ]
+    },
+    {
+        "name": "Dusclops",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/356.png",
+        "abilities": [
+            "Pressure",
+            "Frisk"
+        ]
+    },
+    {
+        "name": "Dusknoir",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/477.png",
+        "abilities": [
+            "Pressure",
+            "Frisk"
+        ]
+    },
+    {
+        "name": "Machop",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/066.png",
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "name": "Machoke",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/067.png",
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "name": "Machamp",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/068.png",
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "name": "Gastly",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/092.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Haunter",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/093.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Gengar",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/094.png",
+        "abilities": [
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Magikarp",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/129.png",
+        "abilities": [
+            "Swift Swim",
+            "Rattled"
+        ]
+    },
+    {
+        "name": "Gyarados",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/130.png",
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ]
+    },
+    {
+        "name": "Goldeen",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/118.png",
+        "abilities": [
+            "Swift Swim",
+            "Water Veil",
+            "Lightning Rod"
+        ]
+    },
+    {
+        "name": "Seaking",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/119.png",
+        "abilities": [
+            "Swift Swim",
+            "Water Veil",
+            "Lightning Rod"
+        ]
+    },
+    {
+        "name": "Remoraid",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/223.png",
+        "abilities": [
+            "Hustle",
+            "Sniper",
+            "Moody"
+        ]
+    },
+    {
+        "name": "Octillery",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/224.png",
+        "abilities": [
+            "Suction Cups",
+            "Sniper",
+            "Moody"
+        ]
+    },
+    {
+        "name": "Shellder",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/090.png",
+        "abilities": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Cloyster",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/091.png",
+        "abilities": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Feebas",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/349.png",
+        "abilities": [
+            "Swift Swim",
+            "Oblivious",
+            "Adaptability"
+        ]
+    },
+    {
+        "name": "Milotic",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/350.png",
+        "abilities": [
+            "Marvel Scale",
+            "Competitive",
+            "Cute Charm"
+        ]
+    },
+    {
+        "name": "Basculin",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/550.png",
+        "abilities": [
+            "Reckless",
+            "Adaptability",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Wishiwashi",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/746.png",
+        "abilities": [
+            "Schooling"
+        ]
+    },
+    {
+        "name": "Pyukumuku",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/771.png",
+        "abilities": [
+            "Innards Out",
+            "Unaware"
+        ]
+    },
+    {
+        "name": "Trubbish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/568.png",
+        "abilities": [
+            "Stench",
+            "Sticky Hold",
+            "Aftermath"
+        ]
+    },
+    {
+        "name": "Garbodor",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/569.png",
+        "abilities": [
+            "Stench",
+            "Weak Armor",
+            "Aftermath"
+        ]
+    },
+    {
+        "name": "Sizzlipede",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/850.png",
+        "abilities": [
+            "Flash Fire",
+            "White Smoke",
+            "Flame Body"
+        ]
+    },
+    {
+        "name": "Centiskorch",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/851.png",
+        "abilities": [
+            "Flash Fire",
+            "White Smoke",
+            "Flame Body"
+        ]
+    },
+    {
+        "name": "Rolycoly",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/837.png",
+        "abilities": [
+            "Steam Engine",
+            "Heatproof",
+            "Flash Fire"
+        ]
+    },
+    {
+        "name": "Carkol",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/838.png",
+        "abilities": [
+            "Steam Engine",
+            "Flame Body",
+            "Flash Fire"
+        ]
+    },
+    {
+        "name": "Coalossal",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/839.png",
+        "abilities": [
+            "Steam Engine",
+            "Flame Body",
+            "Flash Fire"
+        ]
+    },
+    {
+        "name": "Diglett",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/050.png",
+        "abilities": [
+            "Sand Veil",
+            "Arena Trap",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Dugtrio",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/051.png",
+        "abilities": [
+            "Sand Veil",
+            "Arena Trap",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Drilbur",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/529.png",
+        "abilities": [
+            "Sand Rush",
+            "Sand Force",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Excadrill",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/530.png",
+        "abilities": [
+            "Sand Rush",
+            "Sand Force",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Roggenrola",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/524.png",
+        "abilities": [
+            "Sturdy",
+            "Weak Armor",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Boldore",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/525.png",
+        "abilities": [
+            "Sturdy",
+            "Weak Armor",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Gigalith",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/526.png",
+        "abilities": [
+            "Sturdy",
+            "Sand Stream",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Timburr",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/532.png",
+        "abilities": [
+            "Guts",
+            "Sheer Force",
+            "Iron Fist"
+        ]
+    },
+    {
+        "name": "Gurdurr",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/533.png",
+        "abilities": [
+            "Guts",
+            "Sheer Force",
+            "Iron Fist"
+        ]
+    },
+    {
+        "name": "Conkeldurr",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/534.png",
+        "abilities": [
+            "Guts",
+            "Sheer Force",
+            "Iron Fist"
+        ]
+    },
+    {
+        "name": "Woobat",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/527.png",
+        "abilities": [
+            "Unaware",
+            "Klutz",
+            "Simple"
+        ]
+    },
+    {
+        "name": "Swoobat",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/528.png",
+        "abilities": [
+            "Unaware",
+            "Klutz",
+            "Simple"
+        ]
+    },
+    {
+        "name": "Noibat",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/714.png",
+        "abilities": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Noivern",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/715.png",
+        "abilities": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Onix",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/095.png",
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Steelix",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/208.png",
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Sheer Force"
+        ]
+    },
+    {
+        "name": "Arrokuda",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/846.png",
+        "abilities": [
+            "Swift Swim",
+            "Propeller Tail"
+        ]
+    },
+    {
+        "name": "Barraskewda",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/847.png",
+        "abilities": [
+            "Swift Swim",
+            "Propeller Tail"
+        ]
+    },
+    {
+        "name": "Meowth",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/052-g.png",
+        "abilities": [
+            "Pickup",
+            "Tough Claws",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Perrserker",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/863.png",
+        "abilities": [
+            "Battle Armor",
+            "Tough Claws",
+            "Steely Spirit"
+        ]
+    },
+    {
+        "name": "Persian",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/053.png",
+        "abilities": [
+            "Limber",
+            "Technician",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Milcery",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/868.png",
+        "abilities": [
+            "Sweet Veil",
+            "Aroma Veil"
+        ]
+    },
+    {
+        "name": "Alcremie",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/869.png",
+        "abilities": [
+            "Sweet Veil",
+            "Aroma Veil"
+        ]
+    },
+    {
+        "name": "Cutiefly",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/742.png",
+        "abilities": [
+            "Honey Gather",
+            "Shield Dust",
+            "Sweet Veil"
+        ]
+    },
+    {
+        "name": "Ribombee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/743.png",
+        "abilities": [
+            "Honey Gather",
+            "Shield Dust",
+            "Sweet Veil"
+        ]
+    },
+    {
+        "name": "Ferroseed",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/597.png",
+        "abilities": [
+            "Iron Barbs"
+        ]
+    },
+    {
+        "name": "Ferrothorn",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/598.png",
+        "abilities": [
+            "Iron Barbs",
+            "Anticipation"
+        ]
+    },
+    {
+        "name": "Pumpkaboo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/710.png",
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "name": "Gourgeist",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/711.png",
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "name": "Pichu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/172.png",
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ]
+    },
+    {
+        "name": "Pikachu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/025.png",
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ]
+    },
+    {
+        "name": "Raichu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/026.png",
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ]
+    },
+    {
+        "name": "Eevee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/133.png",
+        "abilities": [
+            "Run Away",
+            "Adaptability",
+            "Anticipation"
+        ]
+    },
+    {
+        "name": "Vaporeon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/134.png",
+        "abilities": [
+            "Water Absorb",
+            "Hydration"
+        ]
+    },
+    {
+        "name": "Jolteon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/135.png",
+        "abilities": [
+            "Volt Absorb",
+            "Quick Feet"
+        ]
+    },
+    {
+        "name": "Flareon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/136.png",
+        "abilities": [
+            "Flash Fire",
+            "Guts"
+        ]
+    },
+    {
+        "name": "Espeon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/196.png",
+        "abilities": [
+            "Synchronize",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Umbreon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/197.png",
+        "abilities": [
+            "Synchronize",
+            "Inner Focus"
+        ]
+    },
+    {
+        "name": "Leafeon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/470.png",
+        "abilities": [
+            "Leaf Guard",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "name": "Glaceon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/471.png",
+        "abilities": [
+            "Snow Cloak",
+            "Ice Body"
+        ]
+    },
+    {
+        "name": "Sylveon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/700.png",
+        "abilities": [
+            "Cute Charm",
+            "Pixilate"
+        ]
+    },
+    {
+        "name": "Applin",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/840.png",
+        "abilities": [
+            "Ripen",
+            "Gluttony",
+            "Bulletproof"
+        ]
+    },
+    {
+        "name": "Flapple",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/841.png",
+        "abilities": [
+            "Ripen",
+            "Gluttony",
+            "Hustle"
+        ]
+    },
+    {
+        "name": "Appletun",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/842.png",
+        "abilities": [
+            "Ripen",
+            "Gluttony",
+            "Thick Fat"
+        ]
+    },
+    {
+        "name": "Espurr",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/677.png",
+        "abilities": [
+            "Keen Eye",
+            "Infiltrator",
+            "Own Tempo"
+        ]
+    },
+    {
+        "name": "Meowstic",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/678.png",
+        "abilities": [
+            "Keen Eye",
+            "Infiltrator",
+            "Prankster"
+        ]
+    },
+    {
+        "name": "Swirlix",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/684.png",
+        "abilities": [
+            "Sweet Veil",
+            "Unburden"
+        ]
+    },
+    {
+        "name": "Slurpuff",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/685.png",
+        "abilities": [
+            "Sweet Veil",
+            "Unburden"
+        ]
+    },
+    {
+        "name": "Spritzee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/682.png",
+        "abilities": [
+            "Healer",
+            "Aroma Veil"
+        ]
+    },
+    {
+        "name": "Aromatisse",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/683.png",
+        "abilities": [
+            "Healer",
+            "Aroma Veil"
+        ]
+    },
+    {
+        "name": "Dewpider",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/751.png",
+        "abilities": [
+            "Water Bubble",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Araquanid",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/752.png",
+        "abilities": [
+            "Water Bubble",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Wynaut",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/360.png",
+        "abilities": [
+            "Shadow Tag",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Wobbuffet",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/202.png",
+        "abilities": [
+            "Shadow Tag",
+            "Telepathy"
+        ]
+    },
+    {
+        "name": "Farfetch'd",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/083-g.png",
+        "abilities": [
+            "Steadfast",
+            "Scrappy"
+        ]
+    },
+    {
+        "name": "Sirfetch'd",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/865.png",
+        "abilities": [
+            "Steadfast",
+            "Scrappy"
+        ]
+    },
+    {
+        "name": "Chinchou",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/170.png",
+        "abilities": [
+            "Volt Absorb",
+            "Illuminate",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Lanturn",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/171.png",
+        "abilities": [
+            "Volt Absorb",
+            "Illuminate",
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Croagunk",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/453.png",
+        "abilities": [
+            "Anticipation",
+            "Dry Skin",
+            "Poison Touch"
+        ]
+    },
+    {
+        "name": "Toxicroak",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/454.png",
+        "abilities": [
+            "Anticipation",
+            "Dry Skin",
+            "Poison Touch"
+        ]
+    },
+    {
+        "name": "Scraggy",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/559.png",
+        "abilities": [
+            "Shed Skin",
+            "Moxie",
+            "Intimidate"
+        ]
+    },
+    {
+        "name": "Scrafty",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/560.png",
+        "abilities": [
+            "Shed Skin",
+            "Moxie",
+            "Intimidate"
+        ]
+    },
+    {
+        "name": "Stunfisk",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/618-g.png",
+        "abilities": [
+            "Mimicry"
+        ]
+    },
+    {
+        "name": "Shuckle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/213.png",
+        "abilities": [
+            "Sturdy",
+            "Gluttony",
+            "Contrary"
+        ]
+    },
+    {
+        "name": "Barboach",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/339.png",
+        "abilities": [
+            "Oblivious",
+            "Anticipation",
+            "Hydration"
+        ]
+    },
+    {
+        "name": "Whiscash",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/340.png",
+        "abilities": [
+            "Oblivious",
+            "Anticipation",
+            "Hydration"
+        ]
+    },
+    {
+        "name": "Shellos",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/422.png",
+        "abilities": [
+            "Sticky Hold",
+            "Storm Drain",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Gastrodon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/423.png",
+        "abilities": [
+            "Sticky Hold",
+            "Storm Drain",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Wimpod",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/767.png",
+        "abilities": [
+            "Wimp Out"
+        ]
+    },
+    {
+        "name": "Golisopod",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/768.png",
+        "abilities": [
+            "Emergency Exit"
+        ]
+    },
+    {
+        "name": "Binacle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/688.png",
+        "abilities": [
+            "Tough Claws",
+            "Sniper",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Barbaracle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/689.png",
+        "abilities": [
+            "Tough Claws",
+            "Sniper",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Corsola",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/222-g.png",
+        "abilities": [
+            "Weak Armor",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Cursola",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/864.png",
+        "abilities": [
+            "Weak Armor",
+            "Perish Body"
+        ]
+    },
+    {
+        "name": "Impidimp",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/859.png",
+        "abilities": [
+            "Prankster",
+            "Frisk",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Morgrem",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/860.png",
+        "abilities": [
+            "Prankster",
+            "Frisk",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Grimmsnarl",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/861.png",
+        "abilities": [
+            "Prankster",
+            "Frisk",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Hatenna",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/856.png",
+        "abilities": [
+            "Healer",
+            "Anticipation",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Hattrem",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/857.png",
+        "abilities": [
+            "Healer",
+            "Anticipation",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Hatterene",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/858.png",
+        "abilities": [
+            "Healer",
+            "Anticipation",
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Salandit",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/757.png",
+        "abilities": [
+            "Corrosion",
+            "Oblivious"
+        ]
+    },
+    {
+        "name": "Salazzle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/758.png",
+        "abilities": [
+            "Corrosion",
+            "Oblivious"
+        ]
+    },
+    {
+        "name": "Pawniard",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/624.png",
+        "abilities": [
+            "Defiant",
+            "Inner Focus",
+            "Pressure"
+        ]
+    },
+    {
+        "name": "Bisharp",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/625.png",
+        "abilities": [
+            "Defiant",
+            "Inner Focus",
+            "Pressure"
+        ]
+    },
+    {
+        "name": "Throh",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/538.png",
+        "abilities": [
+            "Guts",
+            "Inner Focus",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Sawk",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/539.png",
+        "abilities": [
+            "Sturdy",
+            "Inner Focus",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Koffing",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/109.png",
+        "abilities": [
+            "Levitate",
+            "Neutralizing Gas",
+            "Stench"
+        ]
+    },
+    {
+        "name": "Weezing",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/110-g.png",
+        "abilities": [
+            "Levitate",
+            "Neutralizing Gas",
+            "Misty Surge"
+        ]
+    },
+    {
+        "name": "Bonsly",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/438.png",
+        "abilities": [
+            "Sturdy",
+            "Rock Head",
+            "Rattled"
+        ]
+    },
+    {
+        "name": "Sudowoodo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/185.png",
+        "abilities": [
+            "Sturdy",
+            "Rock Head",
+            "Rattled"
+        ]
+    },
+    {
+        "name": "Cleffa",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/173.png",
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Friend Guard"
+        ]
+    },
+    {
+        "name": "Clefairy",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/035.png",
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Friend Guard"
+        ]
+    },
+    {
+        "name": "Clefable",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/036.png",
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Unaware"
+        ]
+    },
+    {
+        "name": "Togepi",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/175.png",
+        "abilities": [
+            "Hustle",
+            "Serene Grace",
+            "Super Luck"
+        ]
+    },
+    {
+        "name": "Togetic",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/176.png",
+        "abilities": [
+            "Hustle",
+            "Serene Grace",
+            "Super Luck"
+        ]
+    },
+    {
+        "name": "Togekiss",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/468.png",
+        "abilities": [
+            "Hustle",
+            "Serene Grace",
+            "Super Luck"
+        ]
+    },
+    {
+        "name": "Munchlax",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/446.png",
+        "abilities": [
+            "Pickup",
+            "Thick Fat",
+            "Gluttony"
+        ]
+    },
+    {
+        "name": "Snorlax",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/143.png",
+        "abilities": [
+            "Immunity",
+            "Thick Fat",
+            "Gluttony"
+        ]
+    },
+    {
+        "name": "Cottonee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/546.png",
+        "abilities": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "name": "Whimsicott",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/547.png",
+        "abilities": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "name": "Rhyhorn",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/111.png",
+        "abilities": [
+            "Lightning Rod",
+            "Rock Head",
+            "Reckless"
+        ]
+    },
+    {
+        "name": "Rhydon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/112.png",
+        "abilities": [
+            "Lightning Rod",
+            "Rock Head",
+            "Reckless"
+        ]
+    },
+    {
+        "name": "Rhyperior",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/464.png",
+        "abilities": [
+            "Lightning Rod",
+            "Solid Rock",
+            "Reckless"
+        ]
+    },
+    {
+        "name": "Gothita",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/574.png",
+        "abilities": [
+            "Frisk",
+            "Competitive",
+            "Shadow Tag"
+        ]
+    },
+    {
+        "name": "Gothorita",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/575.png",
+        "abilities": [
+            "Frisk",
+            "Competitive",
+            "Shadow Tag"
+        ]
+    },
+    {
+        "name": "Gothitelle",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/576.png",
+        "abilities": [
+            "Frisk",
+            "Competitive",
+            "Shadow Tag"
+        ]
+    },
+    {
+        "name": "Solosis",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/577.png",
+        "abilities": [
+            "Overcoat",
+            "Magic Guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Duosion",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/578.png",
+        "abilities": [
+            "Overcoat",
+            "Magic Guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Reuniclus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/579.png",
+        "abilities": [
+            "Overcoat",
+            "Magic Guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Karrablast",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/588.png",
+        "abilities": [
+            "Swarm",
+            "Shed Skin",
+            "No Guard"
+        ]
+    },
+    {
+        "name": "Escavalier",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/589.png",
+        "abilities": [
+            "Swarm",
+            "Shell Armor",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Shelmet",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/616.png",
+        "abilities": [
+            "Hydration",
+            "Shell Armor",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Accelgor",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/617.png",
+        "abilities": [
+            "Hydration",
+            "Sticky Hold",
+            "Unburden"
+        ]
+    },
+    {
+        "name": "Elgyem",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/605.png",
+        "abilities": [
+            "Telepathy",
+            "Synchronize",
+            "Analytic"
+        ]
+    },
+    {
+        "name": "Beheeyem",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/606.png",
+        "abilities": [
+            "Telepathy",
+            "Synchronize",
+            "Analytic"
+        ]
+    },
+    {
+        "name": "Cubchoo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/613.png",
+        "abilities": [
+            "Snow Cloak",
+            "Slush Rush",
+            "Rattled"
+        ]
+    },
+    {
+        "name": "Beartic",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/614.png",
+        "abilities": [
+            "Snow Cloak",
+            "Slush Rush",
+            "Swift Swim"
+        ]
+    },
+    {
+        "name": "Rufflet",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/627.png",
+        "abilities": [
+            "Keen Eye",
+            "Sheer Force",
+            "Hustle"
+        ]
+    },
+    {
+        "name": "Braviary",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/628.png",
+        "abilities": [
+            "Keen Eye",
+            "Sheer Force",
+            "Defiant"
+        ]
+    },
+    {
+        "name": "Vullaby",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/629.png",
+        "abilities": [
+            "Big Pecks",
+            "Overcoat",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Mandibuzz",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/630.png",
+        "abilities": [
+            "Big Pecks",
+            "Overcoat",
+            "Weak Armor"
+        ]
+    },
+    {
+        "name": "Skorupi",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/451.png",
+        "abilities": [
+            "Battle Armor",
+            "Sniper",
+            "Keen Eye"
+        ]
+    },
+    {
+        "name": "Drapion",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/452.png",
+        "abilities": [
+            "Battle Armor",
+            "Sniper",
+            "Keen Eye"
+        ]
+    },
+    {
+        "name": "Litwick",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/607.png",
+        "abilities": [
+            "Flash Fire",
+            "Flame Body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Lampent",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/608.png",
+        "abilities": [
+            "Flash Fire",
+            "Flame Body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Chandelure",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/609.png",
+        "abilities": [
+            "Flash Fire",
+            "Flame Body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Inkay",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/686.png",
+        "abilities": [
+            "Contrary",
+            "Suction Cups",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Malamar",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/687.png",
+        "abilities": [
+            "Contrary",
+            "Suction Cups",
+            "Infiltrator"
+        ]
+    },
+    {
+        "name": "Sneasel",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/215.png",
+        "abilities": [
+            "Inner Focus",
+            "Keen Eye",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Weavile",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/461.png",
+        "abilities": [
+            "Pressure",
+            "Pickpocket"
+        ]
+    },
+    {
+        "name": "Sableye",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/302.png",
+        "abilities": [
+            "Keen Eye",
+            "Stall",
+            "Prankster"
+        ]
+    },
+    {
+        "name": "Mawile",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/303.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Intimidate",
+            "Sheer Force"
+        ]
+    },
+    {
+        "name": "Maractus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/556.png",
+        "abilities": [
+            "Water Absorb",
+            "Chlorophyll",
+            "Storm Drain"
+        ]
+    },
+    {
+        "name": "Sigilyph",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/561.png",
+        "abilities": [
+            "Wonder Skin ",
+            "Magic Guard",
+            "Tinted Lens"
+        ]
+    },
+    {
+        "name": "Riolu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/447.png",
+        "abilities": [
+            "Steadfast",
+            "Inner Focus",
+            "Prankster"
+        ]
+    },
+    {
+        "name": "Lucario",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/448.png",
+        "abilities": [
+            "Steadfast",
+            "Inner Focus",
+            "Justified"
+        ]
+    },
+    {
+        "name": "Torkoal",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/324.png",
+        "abilities": [
+            "White Smoke",
+            "Drought",
+            "Shell Armor"
+        ]
+    },
+    {
+        "name": "Mimikyu",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/778.png",
+        "abilities": [
+            "Disguise"
+        ]
+    },
+    {
+        "name": "Cufant",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/878.png",
+        "abilities": [
+            "Sheer Force",
+            "Heavy Metal"
+        ]
+    },
+    {
+        "name": "Copperajah",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/879.png",
+        "abilities": [
+            "Sheer Force",
+            "Heavy Metal"
+        ]
+    },
+    {
+        "name": "Qwilfish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/211.png",
+        "abilities": [
+            "Poison Point",
+            "Swift Swim",
+            "Intimidate"
+        ]
+    },
+    {
+        "name": "Frillish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/592.png",
+        "abilities": [
+            "Water Absorb",
+            "Cursed Body",
+            "Damp"
+        ]
+    },
+    {
+        "name": "Jellicent",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/593.png",
+        "abilities": [
+            "Water Absorb",
+            "Cursed Body",
+            "Damp"
+        ]
+    },
+    {
+        "name": "Mareanie",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/747.png",
+        "abilities": [
+            "Merciless",
+            "Limber",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Toxapex",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/748.png",
+        "abilities": [
+            "Merciless",
+            "Limber",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Cramorant",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/845.png",
+        "abilities": [
+            "Gulp Missile"
+        ]
+    },
+    {
+        "name": "Toxel",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/848.png",
+        "abilities": [
+            "Rattled",
+            "Static",
+            "Klutz"
+        ]
+    },
+    {
+        "name": "Toxtricity",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/849.png",
+        "abilities": [
+            "Punk Rock",
+            "Plus",
+            "Technician"
+        ]
+    },
+    {
+        "name": "Silicobra",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/843.png",
+        "abilities": [
+            "Sand Spit",
+            "Shed Skin",
+            "Sand Veil"
+        ]
+    },
+    {
+        "name": "Sandaconda",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/844.png",
+        "abilities": [
+            "Sand Spit",
+            "Shed Skin",
+            "Sand Veil"
+        ]
+    },
+    {
+        "name": "Hippopotas",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/449.png",
+        "abilities": [
+            "Sand Stream",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Hippowdon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/450.png",
+        "abilities": [
+            "Sand Stream",
+            "Sand Force"
+        ]
+    },
+    {
+        "name": "Durant",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/632.png",
+        "abilities": [
+            "Swarm",
+            "Hustle",
+            "Truant"
+        ]
+    },
+    {
+        "name": "Heatmor",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/631.png",
+        "abilities": [
+            "Gluttony",
+            "Flash Fire",
+            "White Smoke"
+        ]
+    },
+    {
+        "name": "Helioptile",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/694.png",
+        "abilities": [
+            "Dry Skin",
+            "Sand Veil",
+            "Solar Power"
+        ]
+    },
+    {
+        "name": "Heliolisk",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/695.png",
+        "abilities": [
+            "Dry Skin",
+            "Sand Veil",
+            "Solar Power"
+        ]
+    },
+    {
+        "name": "Hawlucha",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/701.png",
+        "abilities": [
+            "Limber",
+            "Unburden",
+            "Mold Breaker"
+        ]
+    },
+    {
+        "name": "Trapinch",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/328.png",
+        "abilities": [
+            "Hyper Cutter",
+            "Arena Trap",
+            "Sheer Force"
+        ]
+    },
+    {
+        "name": "Vibrava",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/329.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Flygon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/330.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Axew",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/610.png",
+        "abilities": [
+            "Rivalry",
+            "Mold Breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Fraxure",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/611.png",
+        "abilities": [
+            "Rivalry",
+            "Mold Breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Haxorus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/612.png",
+        "abilities": [
+            "Rivalry",
+            "Mold Breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Yamask",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/562-g.png",
+        "abilities": [
+            "Wandering Spirit"
+        ]
+    },
+    {
+        "name": "Runerigus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/867.png",
+        "abilities": [
+            "Wandering Spirit"
+        ]
+    },
+    {
+        "name": "Cofagrigus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/563.png",
+        "abilities": [
+            "Mummy"
+        ]
+    },
+    {
+        "name": "Honedge",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/679.png",
+        "abilities": [
+            "No Guard"
+        ]
+    },
+    {
+        "name": "Doublade",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/680.png",
+        "abilities": [
+            "No Guard"
+        ]
+    },
+    {
+        "name": "Aegislash",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/681.png",
+        "abilities": [
+            "Stance Change"
+        ]
+    },
+    {
+        "name": "Ponyta",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/077-g.png",
+        "abilities": [
+            "Run Away",
+            "Pastel Veil",
+            "Anticipation"
+        ]
+    },
+    {
+        "name": "Rapidash",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/078-g.png",
+        "abilities": [
+            "Run Away",
+            "Pastel Veil",
+            "Anticipation"
+        ]
+    },
+    {
+        "name": "Sinistea",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/854.png",
+        "abilities": [
+            "Weak Armor",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Polteageist",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/855.png",
+        "abilities": [
+            "Weak Armor",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Indeedee",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/876.png",
+        "abilities": [
+            "Inner Focus",
+            "Synchronize",
+            "Psychic Surge"
+        ]
+    },
+    {
+        "name": "Phantump",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/708.png",
+        "abilities": [
+            "Natural Cure",
+            "Frisk",
+            "Harvest"
+        ]
+    },
+    {
+        "name": "Trevenant",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/709.png",
+        "abilities": [
+            "Natural Cure",
+            "Frisk",
+            "Harvest"
+        ]
+    },
+    {
+        "name": "Morelull",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/755.png",
+        "abilities": [
+            "Illuminate",
+            "Effect Spore",
+            "Rain Dish"
+        ]
+    },
+    {
+        "name": "Shiinotic",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/756.png",
+        "abilities": [
+            "Illuminate",
+            "Effect Spore",
+            "Rain Dish"
+        ]
+    },
+    {
+        "name": "Oranguru",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/765.png",
+        "abilities": [
+            "Inner Focus",
+            "Telepathy",
+            "Symbiosis"
+        ]
+    },
+    {
+        "name": "Passimian",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/766.png",
+        "abilities": [
+            "Receiver",
+            "Defiant"
+        ]
+    },
+    {
+        "name": "Morpeko",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/877.png",
+        "abilities": [
+            "Hunger Switch"
+        ]
+    },
+    {
+        "name": "Falinks",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/870.png",
+        "abilities": [
+            "Battle Armor",
+            "Defiant"
+        ]
+    },
+    {
+        "name": "Drampa",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/780.png",
+        "abilities": [
+            "Berserk",
+            "Sap Sipper",
+            "Cloud Nine"
+        ]
+    },
+    {
+        "name": "Turtonator",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/776.png",
+        "abilities": [
+            "Shell Armor"
+        ]
+    },
+    {
+        "name": "Togedemaru",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/777.png",
+        "abilities": [
+            "Iron Barbs",
+            "Lightning Rod",
+            "Sturdy"
+        ]
+    },
+    {
+        "name": "Snom",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/872.png",
+        "abilities": [
+            "Shield Dust",
+            "Ice Scales"
+        ]
+    },
+    {
+        "name": "Frosmoth",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/873.png",
+        "abilities": [
+            "Shield Dust",
+            "Ice Scales"
+        ]
+    },
+    {
+        "name": "Clobbopus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/852.png",
+        "abilities": [
+            "Limber",
+            "Technician"
+        ]
+    },
+    {
+        "name": "Grapploct",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/853.png",
+        "abilities": [
+            "Limber",
+            "Technician"
+        ]
+    },
+    {
+        "name": "Pincurchin",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/871.png",
+        "abilities": [
+            "Lightning Rod",
+            "Electric Surge"
+        ]
+    },
+    {
+        "name": "Mantyke",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/458.png",
+        "abilities": [
+            "Swift Swim",
+            "Water Absorb",
+            "Water Veil"
+        ]
+    },
+    {
+        "name": "Mantine",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/226.png",
+        "abilities": [
+            "Swift Swim",
+            "Water Absorb",
+            "Water Veil"
+        ]
+    },
+    {
+        "name": "Wailmer",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/320.png",
+        "abilities": [
+            "Water Veil",
+            "Oblivious",
+            "Pressure"
+        ]
+    },
+    {
+        "name": "Wailord",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/321.png",
+        "abilities": [
+            "Water Veil",
+            "Oblivious",
+            "Pressure"
+        ]
+    },
+    {
+        "name": "Bergmite",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/712.png",
+        "abilities": [
+            "Own Tempo",
+            "Ice Body",
+            "Sturdy"
+        ]
+    },
+    {
+        "name": "Avalugg",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/713.png",
+        "abilities": [
+            "Own Tempo",
+            "Ice Body",
+            "Sturdy"
+        ]
+    },
+    {
+        "name": "Dhelmise",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/781.png",
+        "abilities": [
+            "Steelworker"
+        ]
+    },
+    {
+        "name": "Lapras",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/131.png",
+        "abilities": [
+            "Water Absorb",
+            "Shell Armor",
+            "Hydration"
+        ]
+    },
+    {
+        "name": "Lunatone",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/337.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Solrock",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/338.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Mime Jr.",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/439.png",
+        "abilities": [
+            "Soundproof",
+            "Filter",
+            "Technician"
+        ]
+    },
+    {
+        "name": "Mr. Mime",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/122-g.png",
+        "abilities": [
+            "Vital Spirit",
+            "Screen Cleaner",
+            "Ice Body"
+        ]
+    },
+    {
+        "name": "Mr. Rime",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/866.png",
+        "abilities": [
+            "Tangled Feet",
+            "Screen Cleaner",
+            "Ice Body"
+        ]
+    },
+    {
+        "name": "Darumaka",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/554-g.png",
+        "abilities": [
+            "Hustle",
+            "Inner Focus"
+        ]
+    },
+    {
+        "name": "Darmanitan",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/555-g.png",
+        "abilities": [
+            "Gorilla Tactics",
+            "Zen Mode"
+        ]
+    },
+    {
+        "name": "Stonjourner",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/874.png",
+        "abilities": [
+            "Power Spot"
+        ]
+    },
+    {
+        "name": "Eiscue",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/875.png",
+        "abilities": [
+            "Ice Face"
+        ]
+    },
+    {
+        "name": "Duraludon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/884.png",
+        "abilities": [
+            "Light Metal",
+            "Heavy Metal",
+            "Stalwart"
+        ]
+    },
+    {
+        "name": "Rotom",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/479.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Ditto",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/132.png",
+        "abilities": [
+            "Limber",
+            "Imposter"
+        ]
+    },
+    {
+        "name": "Dracozolt",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/880.png",
+        "abilities": [
+            "Volt Absorb",
+            "Hustle",
+            "Sand Rush"
+        ]
+    },
+    {
+        "name": "Arctozolt",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/881.png",
+        "abilities": [
+            "Volt Absorb",
+            "Static",
+            "Slush Rush"
+        ]
+    },
+    {
+        "name": "Dracovish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/882.png",
+        "abilities": [
+            "Water Absorb",
+            "Strong Jaw",
+            "Sand Rush"
+        ]
+    },
+    {
+        "name": "Arctovish",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/883.png",
+        "abilities": [
+            "Water Absorb",
+            "Ice Body",
+            "Slush Rush"
+        ]
+    },
+    {
+        "name": "Charmander",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/004.png",
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ]
+    },
+    {
+        "name": "Charmeleon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/005.png",
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ]
+    },
+    {
+        "name": "Charizard",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/006.png",
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ]
+    },
+    {
+        "name": "Type: Null",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/772.png",
+        "abilities": [
+            "Battle Armor"
+        ]
+    },
+    {
+        "name": "Silvally",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/773.png",
+        "abilities": [
+            "RKS System"
+        ]
+    },
+    {
+        "name": "Larvitar",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/246.png",
+        "abilities": [
+            "Guts",
+            "Sand Veil"
+        ]
+    },
+    {
+        "name": "Pupitar",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/247.png",
+        "abilities": [
+            "Shed Skin"
+        ]
+    },
+    {
+        "name": "Tyranitar",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/248.png",
+        "abilities": [
+            "Sand Stream",
+            "Unnerve"
+        ]
+    },
+    {
+        "name": "Deino",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/633.png",
+        "abilities": [
+            "Hustle"
+        ]
+    },
+    {
+        "name": "Zweilous",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/634.png",
+        "abilities": [
+            "Hustle"
+        ]
+    },
+    {
+        "name": "Hydreigon",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/635.png",
+        "abilities": [
+            "Levitate"
+        ]
+    },
+    {
+        "name": "Goomy",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/704.png",
+        "abilities": [
+            "Sap Sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "name": "Sliggoo",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/705.png",
+        "abilities": [
+            "Sap Sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "name": "Goodra",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/706.png",
+        "abilities": [
+            "Sap Sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "name": "Jangmo-o",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/782.png",
+        "abilities": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Hakamo-o",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/783.png",
+        "abilities": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Kommo-o",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/784.png",
+        "abilities": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "name": "Dreepy",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/885.png",
+        "abilities": [
+            "Clear Body",
+            "Infiltrator",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Drakloak",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/886.png",
+        "abilities": [
+            "Clear Body",
+            "Infiltrator",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Dragapult",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/887.png",
+        "abilities": [
+            "Clear Body",
+            "Infiltrator",
+            "Cursed Body"
+        ]
+    },
+    {
+        "name": "Zacian",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/888.png",
+        "abilities": [
+            "Intrepid Sword"
+        ]
+    },
+    {
+        "name": "Zamazenta",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/889.png",
+        "abilities": [
+            "Dauntless Shield"
+        ]
+    },
+    {
+        "name": "Eternatus",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/890.png",
+        "abilities": [
+            "Pressure"
+        ]
+    },
+    {
+        "name": "Magnemite",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/081.png",
+        "abilities": [
+            "Magnet Pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "name": "Magneton",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/082.png",
+        "abilities": [
+            "Magnet Pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "name": "Chansey",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/113.png",
+        "abilities": [
+            "Natural Cure",
+            "Serene Grace",
+            "Healer"
+        ]
+    },
+    {
+        "name": "Horsea",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/116.png",
+        "abilities": [
+            "Swift Swim",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "name": "Seadra",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/117.png",
+        "abilities": [
+            "Poison Point",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "name": "Marill",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/183.png",
+        "abilities": [
+            "Thick Fat",
+            "Huge Power",
+            "Sap Sipper"
+        ]
+    },
+    {
+        "name": "Azumarill",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/184.png",
+        "abilities": [
+            "Thick Fat",
+            "Huge Power",
+            "Sap Sipper"
+        ]
+    },
+    {
+        "name": "Slowking",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/199.png",
+        "abilities": [
+            "Oblivious",
+            "Own Tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "name": "Kingdra",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/230.png",
+        "abilities": [
+            "Swift Swim",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "name": "Blissey",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/242.png",
+        "abilities": [
+            "Natural Cure",
+            "Serene Grace",
+            "Healer"
+        ]
+    },
+    {
+        "name": "Azurill",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/298.png",
+        "abilities": [
+            "Thick Fat",
+            "Huge Power",
+            "Sap Sipper"
+        ]
+    },
+    {
+        "name": "Happiny",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/440.png",
+        "abilities": [
+            "Natural Cure",
+            "Serene Grace",
+            "Friend Guard"
+        ]
+    },
+    {
+        "name": "Magnezone",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/462.png",
+        "abilities": [
+            "Magnet Pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "name": "Zorua",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/570.png",
+        "abilities": [
+            "Illusion"
+        ]
+    },
+    {
+        "name": "Zoroark",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/571.png",
+        "abilities": [
+            "Illusion"
+        ]
+    },
+    {
+        "name": "Larvesta",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/636.png",
+        "abilities": [
+            "Flame Body",
+            "Swarm"
+        ]
+    },
+    {
+        "name": "Volcarona",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/637.png",
+        "abilities": [
+            "Flame Body",
+            "Swarm"
+        ]
+    },
+    {
+        "name": "Fletchling",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/661.png",
+        "abilities": [
+            "Big Pecks",
+            "Gale Wings"
+        ]
+    },
+    {
+        "name": "Fletchinder",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/662.png",
+        "abilities": [
+            "Flame Body",
+            "Gale Wings"
+        ]
+    },
+    {
+        "name": "Talonflame",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/663.png",
+        "abilities": [
+            "Flame Body",
+            "Gale Wings"
+        ]
+    },
+    {
+        "name": "Dedenne",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/702.png",
+        "abilities": [
+            "Cheek Pouch",
+            "Pickup",
+            "Plus"
+        ]
+    },
+    {
+        "name": "Rockruff",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/744.png",
+        "abilities": [
+            "Keen Eye",
+            "Vital Spirit",
+            "Steadfast"
+        ]
+    },
+    {
+        "name": "Lycanroc",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/745.png",
+        "abilities": [
+            "Keen Eye",
+            "Sand Rush",
+            "Steadfast"
+        ]
+    }
+]
