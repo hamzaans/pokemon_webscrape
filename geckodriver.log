@@ -113,3 +113,529 @@ JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityEr
 1594059529451	Marionette	INFO	Stopped listening on port 37241
 1594059529461	Marionette	INFO	Stopped listening on port 34195
 1594059529482	Marionette	INFO	Stopped listening on port 42807
+1594239637955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0atEO"
+1594239640855	Marionette	INFO	Listening on port 44879
+1594239640873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594239652877	Marionette	INFO	Stopped listening on port 44879
+1594239962505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2psZ00"
+1594239965390	Marionette	INFO	Listening on port 45869
+1594239965419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594239992367	Marionette	INFO	Stopped listening on port 45869
+1594240004216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePtFpDC"
+1594240007135	Marionette	INFO	Listening on port 41383
+1594240007234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240080659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9j8C3"
+1594240082957	Marionette	INFO	Listening on port 46615
+1594240082970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240167712	Marionette	INFO	Stopped listening on port 46615
+1594240385332	Marionette	INFO	Stopped listening on port 41383
+1594240413795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoyNthw"
+1594240416722	Marionette	INFO	Listening on port 37815
+1594240416813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240585022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL0zuuO"
+1594240588183	Marionette	INFO	Listening on port 44975
+1594240588255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240608809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI3P43k"
+1594240611837	Marionette	INFO	Listening on port 36947
+1594240611922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240623215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePeNuJL"
+1594240625707	Marionette	INFO	Listening on port 46695
+1594240625724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240695538	Marionette	INFO	Stopped listening on port 46695
+1594240697628	Marionette	INFO	Stopped listening on port 36947
+1594240700092	Marionette	INFO	Stopped listening on port 44975
+1594240702077	Marionette	INFO	Stopped listening on port 37815
+1594240858897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezYstSa"
+1594240861874	Marionette	INFO	Listening on port 46417
+1594240861913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240933597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8frNY3"
+1594240937245	Marionette	INFO	Listening on port 37565
+1594240937312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594240942753	Marionette	INFO	Stopped listening on port 37565
+1594240946959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuADlS9"
+1594240949355	Marionette	INFO	Listening on port 34059
+1594240949369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594241103897	Marionette	INFO	Stopped listening on port 34059
+1594241118953	Marionette	INFO	Stopped listening on port 46417
+1594241193886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH8PaU0"
+1594241196694	Marionette	INFO	Listening on port 43791
+1594241196706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594241240417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelTL9jh"
+1594241243419	Marionette	INFO	Listening on port 40613
+1594241243443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594241246007	Marionette	INFO	Stopped listening on port 43791
+1594241247008	Marionette	INFO	Stopped listening on port 40613
+1594241248763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYiLcja"
+1594241251598	Marionette	INFO	Listening on port 38981
+1594241251673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594241410216	Marionette	INFO	Stopped listening on port 38981
+1594241544733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGql0X8"
+1594241547777	Marionette	INFO	Listening on port 44215
+1594241547851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594241548989	Marionette	INFO	Stopped listening on port 44215
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: limelightPlayer
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594241586555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZMMzty"
+1594241589443	Marionette	INFO	Listening on port 41649
+1594241589472	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594241889460	Marionette	INFO	Stopped listening on port 41649
+1594241897499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV6kE1S"
+1594241900507	Marionette	INFO	Listening on port 45431
+1594241900608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594241958828	Marionette	INFO	Stopped listening on port 45431
+1594242015460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile77PwJH"
+1594242018431	Marionette	INFO	Listening on port 42483
+1594242018471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594242019670	Marionette	INFO	Stopped listening on port 42483
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594242038035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWOGl7A"
+1594242041105	Marionette	INFO	Listening on port 46165
+1594242041154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594242042253	Marionette	INFO	Stopped listening on port 46165
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1594242814796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRU84HF"
+1594242817660	Marionette	INFO	Listening on port 46377
+1594242817705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594242847987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemtg8wx"
+1594242851011	Marionette	INFO	Listening on port 46675
+1594242851104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594242852143	Marionette	INFO	Stopped listening on port 46675
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1594242905685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenBCvQX"
+1594242908912	Marionette	INFO	Listening on port 46597
+1594242909004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594242910179	Marionette	INFO	Stopped listening on port 46597
+1594242962329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEZyL3w"
+1594242965302	Marionette	INFO	Listening on port 43859
+1594242965341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594243652805	Marionette	INFO	Stopped listening on port 43859
+1594247951577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiW7k1B"
+1594247953800	Marionette	INFO	Listening on port 33423
+1594247953884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248004377	Marionette	INFO	Stopped listening on port 33423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594248034185	Marionette	INFO	Stopped listening on port 46377
+1594248077287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWUTSXI"
+1594248080300	Marionette	INFO	Listening on port 46033
+1594248080312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248081310	Marionette	INFO	Stopped listening on port 46033
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1594248126458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5tDVE"
+1594248129461	Marionette	INFO	Listening on port 39365
+1594248129476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248130493	Marionette	INFO	Stopped listening on port 39365
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594248229808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez3qQTK"
+1594248232643	Marionette	INFO	Listening on port 36645
+1594248232716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248291936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepQydoX"
+1594248294734	Marionette	INFO	Listening on port 34689
+1594248294746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248295779	Marionette	INFO	Stopped listening on port 34689
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1594248313634	Marionette	INFO	Stopped listening on port 36645
+1594248340471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLFq0tO"
+1594248343252	Marionette	INFO	Listening on port 44507
+1594248343291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248344285	Marionette	INFO	Stopped listening on port 44507
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594248459108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJlnJNW"
+1594248461923	Marionette	INFO	Listening on port 42765
+1594248462018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248463073	Marionette	INFO	Stopped listening on port 42765
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1594248543285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNOSnYC"
+1594248546180	Marionette	INFO	Listening on port 37757
+1594248546200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248565720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoj1gUN"
+1594248567989	Marionette	INFO	Listening on port 46623
+1594248568060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248569112	Marionette	INFO	Stopped listening on port 46623
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1594248696014	Marionette	INFO	Stopped listening on port 37757
+1594248734496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Sivgd"
+1594248737419	Marionette	INFO	Listening on port 45295
+1594248737508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248762514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJTxAYD"
+1594248764831	Marionette	INFO	Listening on port 40255
+1594248764922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248765972	Marionette	INFO	Stopped listening on port 40255
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594248857884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileljkPbG"
+1594248860169	Marionette	INFO	Listening on port 41775
+1594248860196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248866137	Marionette	INFO	Stopped listening on port 41775
+1594248886344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTEbnBB"
+1594248888573	Marionette	INFO	Listening on port 44235
+1594248888650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248909593	Marionette	INFO	Stopped listening on port 44235
+1594248945867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA6xmVw"
+1594248948094	Marionette	INFO	Listening on port 37873
+1594248948182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594248951689	Marionette	INFO	Stopped listening on port 37873
+1594249040070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0aT5Zk"
+1594249042468	Marionette	INFO	Listening on port 33865
+1594249042480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249045619	Marionette	INFO	Stopped listening on port 33865
+1594249145268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1NQ741"
+1594249147652	Marionette	INFO	Listening on port 38415
+1594249147682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249150695	Marionette	INFO	Stopped listening on port 38415
+1594249195223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecq1XRu"
+1594249198163	Marionette	INFO	Listening on port 32931
+1594249198239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249201184	Marionette	INFO	Stopped listening on port 32931
+1594249404143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevnN4wP"
+1594249407016	Marionette	INFO	Listening on port 44465
+1594249407057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249410376	Marionette	INFO	Stopped listening on port 44465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594249537295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiweowl"
+1594249539611	Marionette	INFO	Listening on port 35413
+1594249539702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249543205	Marionette	INFO	Stopped listening on port 35413
+1594249676144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqK6gc5"
+1594249678615	Marionette	INFO	Listening on port 46325
+1594249678657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594249682340	Marionette	INFO	Stopped listening on port 46325
+1594250255653	Marionette	INFO	Stopped listening on port 45295
+1594250276407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuPFKgl"
+1594250279231	Marionette	INFO	Listening on port 38747
+1594250279327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594250280342	Marionette	INFO	Stopped listening on port 38747
+JavaScript error: https://assets.pokemon.com/static2/_ui/js/vendor/require.js, line 163: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594250530008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uU25F"
+1594250532792	Marionette	INFO	Listening on port 44785
+1594250532822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594250539426	Marionette	INFO	Stopped listening on port 44785
+1594250846143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLLfy70"
+1594250848958	Marionette	INFO	Listening on port 39211
+1594250849057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594250857278	Marionette	INFO	Stopped listening on port 39211
+1594250892366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD79vPs"
+1594250895168	Marionette	INFO	Listening on port 46391
+1594250895185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594250898134	Marionette	INFO	Stopped listening on port 46391
+1594251293727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1YkDtH"
+1594251296581	Marionette	INFO	Listening on port 38483
+1594251296644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594251313090	Marionette	INFO	Stopped listening on port 38483
+Exiting due to channel error.
+1594252010227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF6UM91"
+1594252013041	Marionette	INFO	Listening on port 33879
+1594252013142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594252025819	Marionette	INFO	Stopped listening on port 33879
+1594252617095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenXG0nj"
+1594252619925	Marionette	INFO	Listening on port 44097
+1594252620007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594252631010	Marionette	INFO	Stopped listening on port 44097
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/4?cardName=&cardText=&evolvesFrom=&card-grass=on&card-fire=on&card-water=on&card-lightning=on&card-psychic=on&card-fighting=on&card-darkness=on&card-metal=on&card-colorless=on&card-fairy=on&card-dragon=on&simpleSubmit=&format=unlimited&hitPointsMin=0&hitPointsMax=340&retreatCostMin=0&retreatCostMax=5&totalAttackCostMin=0&totalAttackCostMax=5&particularArtist=&sort=number&sort=number, line 12: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/4?cardName=&cardText=&evolvesFrom=&card-grass=on&card-fire=on&card-water=on&card-lightning=on&card-psychic=on&card-fighting=on&card-darkness=on&card-metal=on&card-colorless=on&card-fairy=on&card-dragon=on&simpleSubmit=&format=unlimited&hitPointsMin=0&hitPointsMax=340&retreatCostMin=0&retreatCostMax=5&totalAttackCostMin=0&totalAttackCostMax=5&particularArtist=&sort=number&sort=number, line 12: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/4?cardName=&cardText=&evolvesFrom=&card-grass=on&card-fire=on&card-water=on&card-lightning=on&card-psychic=on&card-fighting=on&card-darkness=on&card-metal=on&card-colorless=on&card-fairy=on&card-dragon=on&simpleSubmit=&format=unlimited&hitPointsMin=0&hitPointsMax=340&retreatCostMin=0&retreatCostMax=5&totalAttackCostMin=0&totalAttackCostMax=5&particularArtist=&sort=number&sort=number, line 12: NS_ERROR_NOT_INITIALIZED: 
+1594253294883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0kIKY8"
+1594253297685	Marionette	INFO	Listening on port 46735
+1594253297697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594253309977	Marionette	INFO	Stopped listening on port 46735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594253360849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerZWNEQ"
+1594253363862	Marionette	INFO	Listening on port 33843
+1594253363962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594253376079	Marionette	INFO	Stopped listening on port 33843
+1594253535725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecIZFiN"
+1594253538801	Marionette	INFO	Listening on port 41363
+1594253538842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594253550293	Marionette	INFO	Stopped listening on port 41363
+1594254119264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile62FTQB"
+1594254122291	Marionette	INFO	Listening on port 46215
+1594254122372	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1594254143152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQOqEUm"
+1594254146095	Marionette	INFO	Listening on port 46645
+1594254146176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594257133721	Marionette	INFO	Stopped listening on port 46645
+1594481383805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7icjXX"
+1594481386604	Marionette	INFO	Listening on port 40963
+1594481386630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594484220111	Marionette	INFO	Stopped listening on port 40963
+1594823383625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnbHUp"
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 6392, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1594823387308	Marionette	INFO	Listening on port 39533
+JavaScript error: chrome://marionette/content/server.js, line 105: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.close]
+1594823428830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9hlN7m"
+1594823431977	Marionette	INFO	Listening on port 38309
+1594823432041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594823433492	Marionette	INFO	Stopped listening on port 38309
+1594823512328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg4sdlf"
+1594823515487	Marionette	INFO	Listening on port 34859
+1594823515548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1594823517419	Marionette	INFO	Stopped listening on port 34859
+1594823541963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHmC57p"
+1594823544818	Marionette	INFO	Listening on port 32853
+1594823544901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594823560525	Marionette	INFO	Stopped listening on port 32853
+1594823968868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzdPPZ"
+1594823971814	Marionette	INFO	Listening on port 32943
+1594823971892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594824224046	Marionette	INFO	Stopped listening on port 32943
+1594824342344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0a91Pk"
+1594824345296	Marionette	INFO	Listening on port 41587
+1594824345363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://cdn.ampproject.org/rtv/012006300332000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/adchoices/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012006300332000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/simgad/10212522446138533346?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4ql-1MJgCs5dyUhdNR5p6p_5l6Bs1Q​​​
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012006300332000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/adchoices/icon.png​​​
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594824429778	Marionette	INFO	Stopped listening on port 41587
+1594824439268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZOJKtd"
+1594824442112	Marionette	INFO	Listening on port 41725
+1594824442195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+1594824626075	Marionette	INFO	Stopped listening on port 41725
+1594824654670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4rjw6f"
+1594824657614	Marionette	INFO	Listening on port 40949
+1594824657681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+1594824694897	Marionette	INFO	Stopped listening on port 40949
+1594824724277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoV8IfB"
+1594824727072	Marionette	INFO	Listening on port 35651
+1594824727094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594824757361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexXeYbT"
+1594824757962	Marionette	INFO	Stopped listening on port 35651
+1594824760322	Marionette	INFO	Listening on port 33259
+1594824760377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594824880086	Marionette	INFO	Stopped listening on port 33259
+1594825010670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileshazRB"
+1594825013529	Marionette	INFO	Listening on port 36511
+1594825013589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594825037625	Marionette	INFO	Stopped listening on port 36511
+1594825055665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevJjVJu"
+1594825058498	Marionette	INFO	Listening on port 37741
+1594825058584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+1594825081490	Marionette	INFO	Stopped listening on port 37741
+1594825145770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8o6Ki"
+1594825148737	Marionette	INFO	Listening on port 46281
+1594825148785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=, line 12: SecurityError: The operation is insecure.
+1594825184843	Marionette	INFO	Stopped listening on port 46281
+1594825911713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegNSFPV"
+1594825914696	Marionette	INFO	Listening on port 42609
+1594825914735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1594825999485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ezFLN"
+1594826001907	Marionette	INFO	Listening on port 45373
+1594826001990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex

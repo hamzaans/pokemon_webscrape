@@ -1,0 +1,32 @@
+# add the 35 pokemon added to pokemon home
+https://www.imore.com/which-pokemon-can-be-transferred-pokemon-home-pokemon-sword-shield
+with abilities
+
+['Bulbasaur', 'Ivysaur', 'Venusaur', 'Squirtle', 'Wartortle', 'Blastoise', 'Mewtwo', 'Mew', 'Celebi', 'Jirachi', 'Cobalion', 'Terrakion', 'Virizion', 'Reshiram', 'Zekrom', 'Kyurem', 'Keldeo', 'Rowlet', 'Dartrix', 'Decidueye', 'Litten', 'Torracat', 'Incineroar', 'Popplio', 'Brionne', 'Primarina', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Marshadow', 'Zeraora', 'Meltan', 'Melmetal']
+
+# Make these galar pokemon in the json file also
+Darumaka-Galar
+Darmanitan-Galar
+Darmanitan
+Farfetch’d-Galar
+Farfetch’d
+Linoone-Galar
+Linoone
+Meowth-Galar
+Meowth
+Ponyta-Galar 
+Ponyta
+Rapidash-Galar
+Rapidash
+Slowbro-Galar
+Slowbro
+Slowpoke-Galar
+Slowpoke
+Stunfisk-Galar
+Weezing-Galar
+Weezing
+Yamask-Galar
+Zigzagoon-Galar
+Zigzagoon
+
+# Alolan pokemon - search 'Alola' in Pokemon in team builder

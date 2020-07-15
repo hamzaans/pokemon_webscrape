@@ -1,0 +1,322 @@
+{
+        "name": "Bulbasaur",
+        "image": "https://www.serebii.net/xy/pokemon/001.png",
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll:"
+        ]
+    },{
+        "name": "Ivysaur",
+        "image": "https://www.serebii.net/sunmoon/pokemon/002.png",
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ]
+    },{
+        "name": "Venusaur",
+        "image": "https://www.serebii.net/xy/pokemon/003.png",
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll:"
+        ]
+    },{
+        "name": "Squirtle",
+        "image": "https://www.serebii.net/xy/pokemon/007.png",
+        "abilities": [
+            "Torrent:",
+            "Rain Dish"
+        ]
+    },{
+        "name": "Wartortle",
+        "image": "https://www.serebii.net/swordshield/pokemon/008.png",
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ]
+    },{
+        "name": "Blastoise",
+        "image": "https://www.serebii.net/xy/pokemon/009.png",
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ]
+    },{
+        "name": "Mewtwo",
+        "image": "https://www.serebii.net/xy/pokemon/150.png",
+        "abilities": [
+            "Pressure:"
+            "Unnerve"
+        ]
+    },{
+        "name": "Mew",
+        "image": "https://www.serebii.net/xy/pokemon/151.png",
+        "abilities": [
+            "Synchronize"
+       
+        ]
+    },{
+        "name": "Celebi",
+        "image": "https://www.serebii.net/xy/pokemon/251.png",
+        "abilities": [
+            "Natural Cure"
+            
+        ]
+    },{
+        "name": "Jirachi",
+        "image": "https://www.serebii.net/xy/pokemon/385.png",
+        "abilities": [
+            "Serene Grace"
+            
+        ]
+    },{
+        "name": "Cobalion",
+        "image": "https://www.serebii.net/swordshield/pokemon/638.png",
+        "abilities": [
+            "Justified"
+            
+        ]
+    },{
+        "name": "Terrakion",
+        "image": "https://www.serebii.net/swordshield/pokemon/639.png",
+        "abilities": [
+            "Justified"
+           
+        ]
+    },{
+        "name": "Virizion",
+        "image": "https://www.serebii.net/xy/pokemon/640.png",
+        "abilities": [
+            "Justified"
+            
+        ]
+    },{
+        "name": "Reshiram",
+        "image": "https://www.serebii.net/xy/pokemon/643.png",
+        "abilities": [
+            "Turboblaze"
+            
+        ]
+    },{
+        "name": "Zekrom",
+        "image": "https://www.serebii.net/xy/pokemon/644.png",
+        "abilities": [
+            "Teravolt"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },{
+        "name": "Abomasnow",
+        "image": "https://www.serebii.net//swordshield/pokemon/small/460.png",
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ]
+    },

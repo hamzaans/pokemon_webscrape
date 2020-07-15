@@ -1,0 +1,3539 @@
+[
+    {
+        "Snivy": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW01.png"
+    },
+    {
+        "Tepig": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW02.png"
+    },
+    {
+        "Oshawott": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW03.png"
+    },
+    {
+        "Reshiram": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW04.png"
+    },
+    {
+        "Zekrom": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW05.png"
+    },
+    {
+        "Zoroark": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW09.png"
+    },
+    {
+        "Axew": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW10.png"
+    },
+    {
+        "Pansage": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW11.png"
+    },
+    {
+        "Zorua": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW12.png"
+    },
+    {
+        "Minccino": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW13.png"
+    },
+    {
+        "Pidove": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW15.png"
+    },
+    {
+        "Ducklett": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW17.png"
+    },
+    {
+        "Darumaka": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW18.png"
+    },
+    {
+        "Serperior": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW20.png"
+    },
+    {
+        "Emboar": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW21.png"
+    },
+    {
+        "Samurott": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW22.png"
+    },
+    {
+        "Scraggy": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW25.png"
+    },
+    {
+        "Litwick": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW27.png"
+    },
+    {
+        "Victini": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW32.png"
+    },
+    {
+        "Riolu": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW33.png"
+    },
+    {
+        "Luxio": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW34.png"
+    },
+    {
+        "Meowth": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW35.png"
+    },
+    {
+        "Volcarona": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW40.png"
+    },
+    {
+        "Thundurus": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW41.png"
+    },
+    {
+        "Tornadus": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW42.png"
+    },
+    {
+        "Landorus": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW43.png"
+    },
+    {
+        "Kyurem": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW44.png"
+    },
+    {
+        "Altaria": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW48.png"
+    },
+    {
+        "Lilligant": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW49.png"
+    },
+    {
+        "Crobat": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW51.png"
+    },
+    {
+        "Lillipup": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW52.png"
+    },
+    {
+        "Flygon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW53.png"
+    },
+    {
+        "Pikachu": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW54.png"
+    },
+    {
+        "Elgyem": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW55.png"
+    },
+    {
+        "Empoleon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW56.png"
+    },
+    {
+        "Haxorus": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW57.png"
+    },
+    {
+        "Black Kyurem": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW58.png"
+    },
+    {
+        "White Kyurem": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW59.png"
+    },
+    {
+        "Keldeo": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW60.png"
+    },
+    {
+        "Drifblim": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW64.png"
+    },
+    {
+        "Jigglypuff": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW65.png"
+    },
+    {
+        "Ninetales": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW66.png"
+    },
+    {
+        "Ampharos": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW67.png"
+    },
+    {
+        "Meloetta": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW68.png"
+    },
+    {
+        "Virizion": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW70.png"
+    },
+    {
+        "Terrakion": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW71.png"
+    },
+    {
+        "Cobalion": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW72.png"
+    },
+    {
+        "Darkrai": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW73.png"
+    },
+    {
+        "Giratina": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW74.png"
+    },
+    {
+        "Metagross": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW75.png"
+    },
+    {
+        "Electrode": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW76.png"
+    },
+    {
+        "Druddigon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW80.png"
+    },
+    {
+        "Porygon-Z": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW84.png"
+    },
+    {
+        "Lucario": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW85.png"
+    },
+    {
+        "Genesect": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW86.png"
+    },
+    {
+        "Leafeon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW87.png"
+    },
+    {
+        "Flareon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW88.png"
+    },
+    {
+        "Vaporeon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW89.png"
+    },
+    {
+        "Glaceon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW90.png"
+    },
+    {
+        "Jolteon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW91.png"
+    },
+    {
+        "Espeon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW92.png"
+    },
+    {
+        "Umbreon": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW93.png"
+    },
+    {
+        "Eevee": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW94.png"
+    },
+    {
+        "Mew": "https://assets.pokemon.com/assets/cms2/img/cards/web/BWP/BWP_EN_BW98.png"
+    },
+    {
+        "Ho-Oh": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS01.png"
+    },
+    {
+        "Lugia": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS02.png"
+    },
+    {
+        "Wobbuffet": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS04.png"
+    },
+    {
+        "Hoothoot": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS05.png"
+    },
+    {
+        "Noctowl": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS06.png"
+    },
+    {
+        "Feraligatr": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS07.png"
+    },
+    {
+        "Meganium": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS08.png"
+    },
+    {
+        "Typhlosion": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS09.png"
+    },
+    {
+        "Latias": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS10.png"
+    },
+    {
+        "Latios": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS11.png"
+    },
+    {
+        "Cleffa": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS12.png"
+    },
+    {
+        "Smoochum": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS13.png"
+    },
+    {
+        "Lapras": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS14.png"
+    },
+    {
+        "Shuckle": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS15.png"
+    },
+    {
+        "Plusle": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS16.png"
+    },
+    {
+        "Minun": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS17.png"
+    },
+    {
+        "Raikou": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS19.png"
+    },
+    {
+        "Entei": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS20.png"
+    },
+    {
+        "Suicune": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS21.png"
+    },
+    {
+        "Porygon": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS22.png"
+    },
+    {
+        "Porygon2": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS23.png"
+    },
+    {
+        "Hitmonchan": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS24.png"
+    },
+    {
+        "Hitmonlee": "https://assets.pokemon.com/assets/cms2/img/cards/web/HSP/HSP_EN_HGSS25.png"
+    },
+    {
+        "Rowlet": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM01.png"
+    },
+    {
+        "Litten": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM02.png"
+    },
+    {
+        "Popplio": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM03.png"
+    },
+    {
+        "Rockruff": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM06.png"
+    },
+    {
+        "Pikipek": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM07.png"
+    },
+    {
+        "Togedemaru": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM09.png"
+    },
+    {
+        "Shiinotic": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM10.png"
+    },
+    {
+        "Bruxish": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM11.png"
+    },
+    {
+        "Passimian": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM12.png"
+    },
+    {
+        "Oranguru": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM13.png"
+    },
+    {
+        "Zygarde": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM15.png"
+    },
+    {
+        "Alolan Sandslash": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM18.png"
+    },
+    {
+        "Oricorio": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM19.png"
+    },
+    {
+        "Mudsdale": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM20.png"
+    },
+    {
+        "Drampa": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM21.png"
+    },
+    {
+        "Lurantis": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM25.png"
+    },
+    {
+        "Tsareena": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM26.png"
+    },
+    {
+        "Turtonator": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM27.png"
+    },
+    {
+        "Vikavolt": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM28.png"
+    },
+    {
+        "Mimikyu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM29.png"
+    },
+    {
+        "Tapu Koko": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM30.png"
+    },
+    {
+        "Jangmo-o": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM40.png"
+    },
+    {
+        "Komala": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM41.png"
+    },
+    {
+        "Cosmog": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM42.png"
+    },
+    {
+        "Alolan Meowth": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM43.png"
+    },
+    {
+        "Tapu Lele": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM45.png"
+    },
+    {
+        "Seviper": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM46.png"
+    },
+    {
+        "Crabominable": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM47.png"
+    },
+    {
+        "Bewear": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM49.png"
+    },
+    {
+        "Golisopod": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM52.png"
+    },
+    {
+        "Dhelmise": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM53.png"
+    },
+    {
+        "Decidueye": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM55.png"
+    },
+    {
+        "Tapu Bulu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM61.png"
+    },
+    {
+        "Silvally": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM64.png"
+    },
+    {
+        "Alolan Raichu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM65.png"
+    },
+    {
+        "Salazzle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM73.png"
+    },
+    {
+        "Regirock": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM74.png"
+    },
+    {
+        "Registeel": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM75.png"
+    },
+    {
+        "Mewtwo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM77.png"
+    },
+    {
+        "Marshadow": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM85.png"
+    },
+    {
+        "Tapu Fini": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM92.png"
+    },
+    {
+        "Wash Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM94.png"
+    },
+    {
+        "Heatran": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM96.png"
+    },
+    {
+        "Gumshoos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM97.png"
+    },
+    {
+        "Lycanroc": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM105.png"
+    },
+    {
+        "Dawn Wings Necrozma": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM106.png"
+    },
+    {
+        "Dusk Mane Necrozma": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM107.png"
+    },
+    {
+        "Ash's Pikachu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM108.png"
+    },
+    {
+        "Pheromosa": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM115.png"
+    },
+    {
+        "Xurkitree": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM116.png"
+    },
+    {
+        "Malamar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM117.png"
+    },
+    {
+        "Exeggcute": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM119.png"
+    },
+    {
+        "Alolan Ninetales": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM128.png"
+    },
+    {
+        "Kyogre": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM129.png"
+    },
+    {
+        "Manectric": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM130.png"
+    },
+    {
+        "Celesteela": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM131.png"
+    },
+    {
+        "Delcatty": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM132.png"
+    },
+    {
+        "Salamence": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM140.png"
+    },
+    {
+        "Moltres": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM143.png"
+    },
+    {
+        "Articuno": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM144.png"
+    },
+    {
+        "Zapdos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM145.png"
+    },
+    {
+        "Salandit": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM154.png"
+    },
+    {
+        "Charizard": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM158.png"
+    },
+    {
+        "Nidoqueen": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM160.png"
+    },
+    {
+        "Jirachi": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM161.png"
+    },
+    {
+        "Deoxys": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM164.png"
+    },
+    {
+        "Ultra Necrozma": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM165.png"
+    },
+    {
+        "Meltan": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM177.png"
+    },
+    {
+        "Volcanion": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM179.png"
+    },
+    {
+        "Stakataka": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM180.png"
+    },
+    {
+        "Melmetal": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM181.png"
+    },
+    {
+        "Persian": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM182.png"
+    },
+    {
+        "Amoonguss": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM202.png"
+    },
+    {
+        "Necrozma": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM204.png"
+    },
+    {
+        "Sudowoodo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM207.png"
+    },
+    {
+        "Buzzwole": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM218.png"
+    },
+    {
+        "Phione": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM220.png"
+    },
+    {
+        "Blacephalon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM221.png"
+    },
+    {
+        "Mismagius": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM222.png"
+    },
+    {
+        "Celebi": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM224.png"
+    },
+    {
+        "Armored Mewtwo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMP/SMP_EN_SM228.png"
+    },
+    {
+        "Scyther": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV1.png"
+    },
+    {
+        "Dartrix": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV3.png"
+    },
+    {
+        "Wimpod": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV4.png"
+    },
+    {
+        "Charmander": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV6.png"
+    },
+    {
+        "Charmeleon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV7.png"
+    },
+    {
+        "Wooper": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV9.png"
+    },
+    {
+        "Quagsire": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV10.png"
+    },
+    {
+        "Froakie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV11.png"
+    },
+    {
+        "Frogadier": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV12.png"
+    },
+    {
+        "Voltorb": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV13.png"
+    },
+    {
+        "Shuppet": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV16.png"
+    },
+    {
+        "Inkay": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV17.png"
+    },
+    {
+        "Poipole": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV19.png"
+    },
+    {
+        "Guzzlord": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV26.png"
+    },
+    {
+        "Magnemite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV27.png"
+    },
+    {
+        "Magneton": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV28.png"
+    },
+    {
+        "Magnezone": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV29.png"
+    },
+    {
+        "Beldum": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV30.png"
+    },
+    {
+        "Metang": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV31.png"
+    },
+    {
+        "Kartana": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV33.png"
+    },
+    {
+        "Ralts": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV34.png"
+    },
+    {
+        "Kirlia": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV35.png"
+    },
+    {
+        "Diancie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV36.png"
+    },
+    {
+        "Gible": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV38.png"
+    },
+    {
+        "Gabite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV39.png"
+    },
+    {
+        "Garchomp": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV40.png"
+    },
+    {
+        "Swablu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV42.png"
+    },
+    {
+        "Noibat": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV43.png"
+    },
+    {
+        "Type: Null": "https://assets.pokemon.com/assets/cms2/img/cards/web/SMA/SMA_EN_SV45.png"
+    },
+    {
+        "Grookey": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH001.png"
+    },
+    {
+        "Scorbunny": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH002.png"
+    },
+    {
+        "Sobble": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH003.png"
+    },
+    {
+        "Rillaboom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH006.png"
+    },
+    {
+        "Frosmoth": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH007.png"
+    },
+    {
+        "Galarian Perrserker": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH008.png"
+    },
+    {
+        "Cinccino": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH009.png"
+    },
+    {
+        "Gossifleur": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH010.png"
+    },
+    {
+        "Wooloo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH011.png"
+    },
+    {
+        "Morpeko": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH012.png"
+    },
+    {
+        "Galarian Ponyta": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH013.png"
+    },
+    {
+        "Chespin": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY01.png"
+    },
+    {
+        "Fennekin": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY02.png"
+    },
+    {
+        "Sylveon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY04.png"
+    },
+    {
+        "Xerneas": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY05.png"
+    },
+    {
+        "Yveltal": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY06.png"
+    },
+    {
+        "Dragalge": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY10.png"
+    },
+    {
+        "Skiddo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY11.png"
+    },
+    {
+        "Honedge": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY12.png"
+    },
+    {
+        "Machamp": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY13.png"
+    },
+    {
+        "Trevenant": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY14.png"
+    },
+    {
+        "Slurpuff": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY15.png"
+    },
+    {
+        "Gogoat": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY16.png"
+    },
+    {
+        "Bronzong": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY21.png"
+    },
+    {
+        "Shiftry": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY23.png"
+    },
+    {
+        "Greninja": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY24.png"
+    },
+    {
+        "Pyroar": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY26.png"
+    },
+    {
+        "Treecko": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY36.png"
+    },
+    {
+        "Torchic": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY37.png"
+    },
+    {
+        "Mudkip": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY38.png"
+    },
+    {
+        "Kingdra": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY39.png"
+    },
+    {
+        "Ditto": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY40.png"
+    },
+    {
+        "Heliolisk": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY47.png"
+    },
+    {
+        "Meowstic": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY48.png"
+    },
+    {
+        "Pangoro": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY50.png"
+    },
+    {
+        "Groudon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY52.png"
+    },
+    {
+        "Blissey": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY56.png"
+    },
+    {
+        "Fearow": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY57.png"
+    },
+    {
+        "Gyarados": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY60.png"
+    },
+    {
+        "Rayquaza": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY64.png"
+    },
+    {
+        "Chesnaught": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY68.png"
+    },
+    {
+        "Palkia": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY75.png"
+    },
+    {
+        "Dialga": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY77.png"
+    },
+    {
+        "Regigigas": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY82.png"
+    },
+    {
+        "Arceus": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY83.png"
+    },
+    {
+        "Hoopa": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY90.png"
+    },
+    {
+        "Sableye": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY92.png"
+    },
+    {
+        "Manaphy": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY113.png"
+    },
+    {
+        "Shaymin": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY115.png"
+    },
+    {
+        "Tyranitar": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY130.png"
+    },
+    {
+        "Pansear": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY131.png"
+    },
+    {
+        "Gastly": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY132.png"
+    },
+    {
+        "Vivillon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY137.png"
+    },
+    {
+        "Floette": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY139.png"
+    },
+    {
+        "Azelf": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY142.png"
+    },
+    {
+        "Magikarp": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY143.png"
+    },
+    {
+        "Yanmega": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY144.png"
+    },
+    {
+        "Clawitzer": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY146.png"
+    },
+    {
+        "Magearna": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY165.png"
+    },
+    {
+        "Absol": "https://assets.pokemon.com/assets/cms2/img/cards/web/XYP/XYP_EN_XY178.png"
+    },
+    {
+        "Aggron": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_1.png"
+    },
+    {
+        "Caterpie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_1.png"
+    },
+    {
+        "Weedle": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_1.png"
+    },
+    {
+        "Beautifly": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_2.png"
+    },
+    {
+        "Metapod": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_2.png"
+    },
+    {
+        "Roselia": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_2.png"
+    },
+    {
+        "Blaziken": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_3.png"
+    },
+    {
+        "Butterfree": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_3.png"
+    },
+    {
+        "Camerupt": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_4.png"
+    },
+    {
+        "Paras": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_4.png"
+    },
+    {
+        "Quilladin": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_4.png"
+    },
+    {
+        "Roserade": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_4.png"
+    },
+    {
+        "Cottonee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_5.png"
+    },
+    {
+        "Parasect": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_5.png"
+    },
+    {
+        "Dustox": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_6.png"
+    },
+    {
+        "Pinsir": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_6.png"
+    },
+    {
+        "Slugma": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_6.png"
+    },
+    {
+        "Whimsicott": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_6.png"
+    },
+    {
+        "Gardevoir": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_7.png"
+    },
+    {
+        "Maractus": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_7.png"
+    },
+    {
+        "Surskit": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_7.png"
+    },
+    {
+        "Durant": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_8.png"
+    },
+    {
+        "Hariyama": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_8.png"
+    },
+    {
+        "Masquerain": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_8.png"
+    },
+    {
+        "Braixen": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_9.png"
+    },
+    {
+        "Delphox": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_10.png"
+    },
+    {
+        "Mightyena": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_10.png"
+    },
+    {
+        "Panpour": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_11.png"
+    },
+    {
+        "Sceptile": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_11.png"
+    },
+    {
+        "Slaking": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_12.png"
+    },
+    {
+        "Thwackey": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_12.png"
+    },
+    {
+        "Grubbin": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_13.png"
+    },
+    {
+        "Swampert": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_13.png"
+    },
+    {
+        "Fomantis": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_14.png"
+    },
+    {
+        "Wailord": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_14.png"
+    },
+    {
+        "Clauncher": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_15.png"
+    },
+    {
+        "Blipbug": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_16.png"
+    },
+    {
+        "Breloom": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_16.png"
+    },
+    {
+        "Morelull": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_16.png"
+    },
+    {
+        "Poochyena": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_16.png"
+    },
+    {
+        "Donphan": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_17.png"
+    },
+    {
+        "Bounsweet": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_18.png"
+    },
+    {
+        "Dottler": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_18.png"
+    },
+    {
+        "Nosepass": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_18.png"
+    },
+    {
+        "Orbeetle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_19.png"
+    },
+    {
+        "Pawniard": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_19.png"
+    },
+    {
+        "Pelipper": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_19.png"
+    },
+    {
+        "Steenee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_19.png"
+    },
+    {
+        "Bisharp": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_20.png"
+    },
+    {
+        "Eldegoss": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_21.png"
+    },
+    {
+        "Growlithe": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_21.png"
+    },
+    {
+        "Seaking": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_21.png"
+    },
+    {
+        "Arcanine": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_22.png"
+    },
+    {
+        "Sharpedo": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_22.png"
+    },
+    {
+        "Snubbull": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_22.png"
+    },
+    {
+        "Vulpix": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_22.png"
+    },
+    {
+        "Granbull": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_23.png"
+    },
+    {
+        "Torkoal": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_23.png"
+    },
+    {
+        "Swirlix": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_24.png"
+    },
+    {
+        "Weezing": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_24.png"
+    },
+    {
+        "Aron": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_25.png"
+    },
+    {
+        "Farfetch'd": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_25.png"
+    },
+    {
+        "Torracat": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_25.png"
+    },
+    {
+        "Cascoon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_26.png"
+    },
+    {
+        "Heatmor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_26.png"
+    },
+    {
+        "Incineroar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_26.png"
+    },
+    {
+        "Snorlax": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_26.png"
+    },
+    {
+        "Combusken": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_27.png"
+    },
+    {
+        "Miltank": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_27.png"
+    },
+    {
+        "Psyduck": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_28.png"
+    },
+    {
+        "Skitty": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_28.png"
+    },
+    {
+        "Bidoof": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_29.png"
+    },
+    {
+        "Golduck": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_29.png"
+    },
+    {
+        "Bunnelby": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_30.png"
+    },
+    {
+        "Electrike": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_30.png"
+    },
+    {
+        "Poliwag": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_30.png"
+    },
+    {
+        "Fletchling": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_31.png"
+    },
+    {
+        "Grovyle": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_31.png"
+    },
+    {
+        "Poliwhirl": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_31.png"
+    },
+    {
+        "Furfrou": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY0/XY0_EN_32.png"
+    },
+    {
+        "Poliwrath": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_32.png"
+    },
+    {
+        "Raboot": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_32.png"
+    },
+    {
+        "Shellder": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_33.png"
+    },
+    {
+        "Cinderace": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_34.png"
+    },
+    {
+        "Cloyster": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_34.png"
+    },
+    {
+        "Corsola": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_36.png"
+    },
+    {
+        "Lairon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_36.png"
+    },
+    {
+        "Sizzlipede": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_37.png"
+    },
+    {
+        "Wingull": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_37.png"
+    },
+    {
+        "Linoone": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_38.png"
+    },
+    {
+        "Centiskorch": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_39.png"
+    },
+    {
+        "Brionne": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_40.png"
+    },
+    {
+        "Marshtomp": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_40.png"
+    },
+    {
+        "Primarina": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_41.png"
+    },
+    {
+        "Krabby": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_42.png"
+    },
+    {
+        "Silcoon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_43.png"
+    },
+    {
+        "Kingler": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_44.png"
+    },
+    {
+        "Wishiwashi": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_44.png"
+    },
+    {
+        "Dewpider": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_45.png"
+    },
+    {
+        "Goldeen": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_45.png"
+    },
+    {
+        "Slakoth": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_45.png"
+    },
+    {
+        "Araquanid": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_46.png"
+    },
+    {
+        "Swellow": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_46.png"
+    },
+    {
+        "Pyukumuku": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_47.png"
+    },
+    {
+        "Vigoroth": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_47.png"
+    },
+    {
+        "Wailmer": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_48.png"
+    },
+    {
+        "Chinchou": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_49.png"
+    },
+    {
+        "Lanturn": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_50.png"
+    },
+    {
+        "Carvanha": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_51.png"
+    },
+    {
+        "Charjabug": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_51.png"
+    },
+    {
+        "Qwilfish": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_51.png"
+    },
+    {
+        "Mantine": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_52.png"
+    },
+    {
+        "Koffing": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_54.png"
+    },
+    {
+        "Zubat": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_54.png"
+    },
+    {
+        "Golbat": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_55.png"
+    },
+    {
+        "Drizzile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_56.png"
+    },
+    {
+        "Makuhita": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_56.png"
+    },
+    {
+        "Alolan Grimer": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_57.png"
+    },
+    {
+        "Alolan Muk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_58.png"
+    },
+    {
+        "Inteleon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_58.png"
+    },
+    {
+        "Drowzee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_59.png"
+    },
+    {
+        "Chewtle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_60.png"
+    },
+    {
+        "Hypno": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_60.png"
+    },
+    {
+        "Drednaw": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_61.png"
+    },
+    {
+        "Numel": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_61.png"
+    },
+    {
+        "Cramorant": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_62.png"
+    },
+    {
+        "Mareanie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_62.png"
+    },
+    {
+        "Phanpy": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_62.png"
+    },
+    {
+        "Snom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_63.png"
+    },
+    {
+        "Toxapex": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_63.png"
+    },
+    {
+        "Cosmoem": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_65.png"
+    },
+    {
+        "Raichu": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_66.png"
+    },
+    {
+        "Roggenrola": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_69.png"
+    },
+    {
+        "Shroomish": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_69.png"
+    },
+    {
+        "Boldore": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_70.png"
+    },
+    {
+        "Joltik": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_70.png"
+    },
+    {
+        "Galvantula": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_71.png"
+    },
+    {
+        "Gigalith": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_71.png"
+    },
+    {
+        "Crabrawler": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_72.png"
+    },
+    {
+        "Taillow": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_72.png"
+    },
+    {
+        "Yamper": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_73.png"
+    },
+    {
+        "Sandygast": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_74.png"
+    },
+    {
+        "Boltund": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_75.png"
+    },
+    {
+        "Palossand": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_75.png"
+    },
+    {
+        "Alolan Rattata": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_76.png"
+    },
+    {
+        "Alolan Raticate": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_77.png"
+    },
+    {
+        "Pincurchin": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_77.png"
+    },
+    {
+        "Wurmple": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_78.png"
+    },
+    {
+        "Alolan Persian": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_79.png"
+    },
+    {
+        "Zigzagoon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX1/EX1_EN_79.png"
+    },
+    {
+        "Galarian Rapidash": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_82.png"
+    },
+    {
+        "Sandile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_83.png"
+    },
+    {
+        "Haunter": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_84.png"
+    },
+    {
+        "Krokorok": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_84.png"
+    },
+    {
+        "Gengar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_85.png"
+    },
+    {
+        "Krookodile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_85.png"
+    },
+    {
+        "Alolan Diglett": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_86.png"
+    },
+    {
+        "Alolan Dugtrio": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_87.png"
+    },
+    {
+        "Munna": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_87.png"
+    },
+    {
+        "Musharna": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_88.png"
+    },
+    {
+        "Skarmory": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_88.png"
+    },
+    {
+        "Sinistea": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_89.png"
+    },
+    {
+        "Polteageist": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_90.png"
+    },
+    {
+        "Cutiefly": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_92.png"
+    },
+    {
+        "Diglett": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_92.png"
+    },
+    {
+        "Dugtrio": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_93.png"
+    },
+    {
+        "Ribombee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_93.png"
+    },
+    {
+        "Dratini": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_94.png"
+    },
+    {
+        "Dragonair": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_95.png"
+    },
+    {
+        "Dragonite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_96.png"
+    },
+    {
+        "Rhyhorn": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_96.png"
+    },
+    {
+        "Spearow": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_97.png"
+    },
+    {
+        "Rhydon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_98.png"
+    },
+    {
+        "Kangaskhan": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_99.png"
+    },
+    {
+        "Rhyperior": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_99.png"
+    },
+    {
+        "Baltoy": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_101.png"
+    },
+    {
+        "Spinda": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_102.png"
+    },
+    {
+        "Claydol": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_103.png"
+    },
+    {
+        "Herdier": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_104.png"
+    },
+    {
+        "Mudbray": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_105.png"
+    },
+    {
+        "Stoutland": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_105.png"
+    },
+    {
+        "Silicobra": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_107.png"
+    },
+    {
+        "Trumbeak": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_107.png"
+    },
+    {
+        "Toucannon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_108.png"
+    },
+    {
+        "Sandaconda": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_109.png"
+    },
+    {
+        "Yungoos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_109.png"
+    },
+    {
+        "Clobbopus": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_111.png"
+    },
+    {
+        "Stufful": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_111.png"
+    },
+    {
+        "Grapploct": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_113.png"
+    },
+    {
+        "Stonjourner": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_114.png"
+    },
+    {
+        "Galarian Zigzagoon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_117.png"
+    },
+    {
+        "Galarian Linoone": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_118.png"
+    },
+    {
+        "Galarian Obstagoon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_119.png"
+    },
+    {
+        "Skorupi": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_121.png"
+    },
+    {
+        "Drapion": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_122.png"
+    },
+    {
+        "Croagunk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_123.png"
+    },
+    {
+        "Toxicroak": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_124.png"
+    },
+    {
+        "Nickit": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_125.png"
+    },
+    {
+        "\u200bThievul": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_126.png"
+    },
+    {
+        "Galarian Meowth": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_127.png"
+    },
+    {
+        "Mawile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_129.png"
+    },
+    {
+        "Ferroseed": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_130.png"
+    },
+    {
+        "Ferrothorn": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_131.png"
+    },
+    {
+        "Galarian Stunfisk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_132.png"
+    },
+    {
+        "Corviknight": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_135.png"
+    },
+    {
+        "Cufant": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_136.png"
+    },
+    {
+        "Copperajah": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_137.png"
+    },
+    {
+        "Rookidee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_150.png"
+    },
+    {
+        "Corvisquire": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_151.png"
+    },
+    {
+        "Dubwool": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_154.png"
+    },
+    {
+        "Armaldo": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_1.png"
+    },
+    {
+        "Bellsprout": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_1.png"
+    },
+    {
+        "Cacturne": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_2.png"
+    },
+    {
+        "Weepinbell": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_2.png"
+    },
+    {
+        "Cradily": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_3.png"
+    },
+    {
+        "Victreebel": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_3.png"
+    },
+    {
+        "Dusclops": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_4.png"
+    },
+    {
+        "Kakuna": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_4.png"
+    },
+    {
+        "Petilil": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_4.png"
+    },
+    {
+        "Beedrill": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_5.png"
+    },
+    {
+        "Heracross": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_6.png"
+    },
+    {
+        "Ledyba": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_6.png"
+    },
+    {
+        "Phantump": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_6.png"
+    },
+    {
+        "Ledian": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_7.png"
+    },
+    {
+        "Lotad": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_7.png"
+    },
+    {
+        "Ludicolo": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_7.png"
+    },
+    {
+        "Lombre": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_8.png"
+    },
+    {
+        "Lunatone": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_8.png"
+    },
+    {
+        "Volbeat": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_8.png"
+    },
+    {
+        "Illumise": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_9.png"
+    },
+    {
+        "Simisage": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_11.png"
+    },
+    {
+        "Lampent": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_12.png"
+    },
+    {
+        "Snover": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_12.png"
+    },
+    {
+        "Abomasnow": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_13.png"
+    },
+    {
+        "Chandelure": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_13.png"
+    },
+    {
+        "Solrock": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_13.png"
+    },
+    {
+        "Scatterbug": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_15.png"
+    },
+    {
+        "Spewpa": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_16.png"
+    },
+    {
+        "Kecleon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_18.png"
+    },
+    {
+        "Alolan Sandshrew": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_19.png"
+    },
+    {
+        "Omastar": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_19.png"
+    },
+    {
+        "Applin": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_20.png"
+    },
+    {
+        "Pichu": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_20.png"
+    },
+    {
+        "Magcargo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_21.png"
+    },
+    {
+        "Sandslash": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_21.png"
+    },
+    {
+        "Flapple": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_22.png"
+    },
+    {
+        "Appletun": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_23.png"
+    },
+    {
+        "Simisear": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_23.png"
+    },
+    {
+        "Steelix": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_23.png"
+    },
+    {
+        "Tentacool": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_23.png"
+    },
+    {
+        "Tentacruel": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_24.png"
+    },
+    {
+        "Politoed": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_25.png"
+    },
+    {
+        "Delibird": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_26.png"
+    },
+    {
+        "Anorith": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_27.png"
+    },
+    {
+        "Fletchinder": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_27.png"
+    },
+    {
+        "Talonflame": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_28.png"
+    },
+    {
+        "Arbok": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_29.png"
+    },
+    {
+        "Magmar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_29.png"
+    },
+    {
+        "Azumarill": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_30.png"
+    },
+    {
+        "Magmortar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_30.png"
+    },
+    {
+        "Azurill": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_31.png"
+    },
+    {
+        "Snorunt": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_31.png"
+    },
+    {
+        "Glalie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_32.png"
+    },
+    {
+        "Staryu": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_33.png"
+    },
+    {
+        "Vanillite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_33.png"
+    },
+    {
+        "Starmie": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_34.png"
+    },
+    {
+        "Vanillish": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_34.png"
+    },
+    {
+        "Electabuzz": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_35.png"
+    },
+    {
+        "Vanilluxe": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_35.png"
+    },
+    {
+        "Alomomola": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_36.png"
+    },
+    {
+        "Elekid": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_36.png"
+    },
+    {
+        "Galarian Mr. Mime": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_37.png"
+    },
+    {
+        "Galarian Mr. Rime": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_38.png"
+    },
+    {
+        "Simipour": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_38.png"
+    },
+    {
+        "Kabuto": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_39.png"
+    },
+    {
+        "Alolan Geodude": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_40.png"
+    },
+    {
+        "Alolan Graveler": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_41.png"
+    },
+    {
+        "Alolan Golem": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_42.png"
+    },
+    {
+        "Lileep": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_42.png"
+    },
+    {
+        "Helioptile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_43.png"
+    },
+    {
+        "Tympole": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_44.png"
+    },
+    {
+        "Palpitoad": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_45.png"
+    },
+    {
+        "Seismitoad": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_46.png"
+    },
+    {
+        "Ekans": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_47.png"
+    },
+    {
+        "Galarian Darumaka": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_47.png"
+    },
+    {
+        "Murkrow": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_47.png"
+    },
+    {
+        "Galarian Darmanitan": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_48.png"
+    },
+    {
+        "Nuzleaf": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_48.png"
+    },
+    {
+        "Slowpoke": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_48.png"
+    },
+    {
+        "Slowbro": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_49.png"
+    },
+    {
+        "Spoink": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_49.png"
+    },
+    {
+        "Grumpig": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_50.png"
+    },
+    {
+        "Trubbish": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_50.png"
+    },
+    {
+        "Garbodor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_51.png"
+    },
+    {
+        "Quilava": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_51.png"
+    },
+    {
+        "Venipede": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_51.png"
+    },
+    {
+        "Arrokuda": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_52.png"
+    },
+    {
+        "Gothita": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_52.png"
+    },
+    {
+        "Whirlipede": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_52.png"
+    },
+    {
+        "Barraskewda": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_53.png"
+    },
+    {
+        "Gothorita": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_53.png"
+    },
+    {
+        "Scolipede": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_53.png"
+    },
+    {
+        "Eiscue": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_54.png"
+    },
+    {
+        "Gothitelle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_54.png"
+    },
+    {
+        "Wynaut": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_54.png"
+    },
+    {
+        "Xatu": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_55.png"
+    },
+    {
+        "Pumpkaboo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_56.png"
+    },
+    {
+        "Cacnea": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_57.png"
+    },
+    {
+        "Gourgeist": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_57.png"
+    },
+    {
+        "Cyndaquil": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_59.png"
+    },
+    {
+        "Electivire": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_59.png"
+    },
+    {
+        "Dunsparce": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_60.png"
+    },
+    {
+        "Shinx": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_60.png"
+    },
+    {
+        "Duskull": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_61.png"
+    },
+    {
+        "Lunala": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_61.png"
+    },
+    {
+        "Luxray": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_62.png"
+    },
+    {
+        "Machop": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_62.png"
+    },
+    {
+        "Machoke": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_64.png"
+    },
+    {
+        "Timburr": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_65.png"
+    },
+    {
+        "Gurdurr": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_66.png"
+    },
+    {
+        "Conkeldurr": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_67.png"
+    },
+    {
+        "Gligar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_67.png"
+    },
+    {
+        "Gliscor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_68.png"
+    },
+    {
+        "Marill": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_68.png"
+    },
+    {
+        "Toxel": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_68.png"
+    },
+    {
+        "Natu": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_69.png"
+    },
+    {
+        "Toxtricity": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_69.png"
+    },
+    {
+        "Barboach": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_70.png"
+    },
+    {
+        "Omanyte": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_70.png"
+    },
+    {
+        "Onix": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_71.png"
+    },
+    {
+        "Whiscash": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_71.png"
+    },
+    {
+        "Pancham": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_72.png"
+    },
+    {
+        "Clefairy": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_74.png"
+    },
+    {
+        "Clefable": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_75.png"
+    },
+    {
+        "Sandshrew": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_75.png"
+    },
+    {
+        "Seedot": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_76.png"
+    },
+    {
+        "Minior": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_77.png"
+    },
+    {
+        "Galarian Corsola": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_78.png"
+    },
+    {
+        "Galarian Cursola": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_79.png"
+    },
+    {
+        "Honchkrow": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_79.png"
+    },
+    {
+        "Sigilyph": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_80.png"
+    },
+    {
+        "Trapinch": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX2/EX2_EN_82.png"
+    },
+    {
+        "Hatenna": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_83.png"
+    },
+    {
+        "Doublade": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_84.png"
+    },
+    {
+        "Hattrem": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_84.png"
+    },
+    {
+        "Aegislash": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_85.png"
+    },
+    {
+        "Hatterene": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_85.png"
+    },
+    {
+        "Milcery": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_86.png"
+    },
+    {
+        "Probopass": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_86.png"
+    },
+    {
+        "Alcremie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_87.png"
+    },
+    {
+        "Solgaleo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_87.png"
+    },
+    {
+        "Indeedee": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_88.png"
+    },
+    {
+        "Dreepy": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_89.png"
+    },
+    {
+        "Wigglytuff": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_89.png"
+    },
+    {
+        "Drakloak": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_90.png"
+    },
+    {
+        "Dragapult": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_91.png"
+    },
+    {
+        "Mr. Mime": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_91.png"
+    },
+    {
+        "Spritzee": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_92.png"
+    },
+    {
+        "Aromatisse": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_93.png"
+    },
+    {
+        "Comfey": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_93.png"
+    },
+    {
+        "Galarian Farfetch'd": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_94.png"
+    },
+    {
+        "Goomy": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_94.png"
+    },
+    {
+        "Galarian Sirfetch'd": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_95.png"
+    },
+    {
+        "Sliggoo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_95.png"
+    },
+    {
+        "Goodra": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_96.png"
+    },
+    {
+        "Meditite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_97.png"
+    },
+    {
+        "Doduo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_98.png"
+    },
+    {
+        "Medicham": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_98.png"
+    },
+    {
+        "Dodrio": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_99.png"
+    },
+    {
+        "Hakamo-o": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_99.png"
+    },
+    {
+        "Tauros": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_100.png"
+    },
+    {
+        "Chansey": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_101.png"
+    },
+    {
+        "Galarian Yamask": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_101.png"
+    },
+    {
+        "Galarian Runerigus": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_102.png"
+    },
+    {
+        "Binacle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_103.png"
+    },
+    {
+        "Barbaracle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_104.png"
+    },
+    {
+        "Castform": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_105.png"
+    },
+    {
+        "Rolycoly": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_105.png"
+    },
+    {
+        "Carkol": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_106.png"
+    },
+    {
+        "Bibarel": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_107.png"
+    },
+    {
+        "Coalossal": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_107.png"
+    },
+    {
+        "Patrat": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_107.png"
+    },
+    {
+        "Watchog": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM2/SM2_EN_108.png"
+    },
+    {
+        "Falinks": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_109.png"
+    },
+    {
+        "Diggersby": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY1/XY1_EN_112.png"
+    },
+    {
+        "Galarian Weezing": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_113.png"
+    },
+    {
+        "Stunky": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_114.png"
+    },
+    {
+        "Skuntank": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_115.png"
+    },
+    {
+        "Spiritomb": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_116.png"
+    },
+    {
+        "Vullaby": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_119.png"
+    },
+    {
+        "Mandibuzz": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_120.png"
+    },
+    {
+        "Impidimp": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_123.png"
+    },
+    {
+        "Morgrem": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_124.png"
+    },
+    {
+        "Grimmsnarl": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_125.png"
+    },
+    {
+        "Scizor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_128.png"
+    },
+    {
+        "Bronzor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_129.png"
+    },
+    {
+        "Duraludon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_138.png"
+    },
+    {
+        "Zacian": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_139.png"
+    },
+    {
+        "Zamazenta": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_140.png"
+    },
+    {
+        "Chatot": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_142.png"
+    },
+    {
+        "Tranquill": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_144.png"
+    },
+    {
+        "Unfezant": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_145.png"
+    },
+    {
+        "Hawlucha": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_148.png"
+    },
+    {
+        "Skwovet": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_151.png"
+    },
+    {
+        "Greedent": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_152.png"
+    },
+    {
+        "Crawdaunt": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_3.png"
+    },
+    {
+        "Oddish": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_4.png"
+    },
+    {
+        "Pineco": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_4.png"
+    },
+    {
+        "Gloom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_5.png"
+    },
+    {
+        "Golem": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_5.png"
+    },
+    {
+        "Vileplume": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_6.png"
+    },
+    {
+        "Tangela": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_7.png"
+    },
+    {
+        "Tangrowth": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_8.png"
+    },
+    {
+        "Shedinja": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_11.png"
+    },
+    {
+        "Ponyta": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_14.png"
+    },
+    {
+        "Rapidash": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_15.png"
+    },
+    {
+        "Girafarig": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_16.png"
+    },
+    {
+        "Litleo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_18.png"
+    },
+    {
+        "Ninjask": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_18.png"
+    },
+    {
+        "Shelgon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_20.png"
+    },
+    {
+        "Feebas": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_22.png"
+    },
+    {
+        "Vibrava": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_22.png"
+    },
+    {
+        "Bagon": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_23.png"
+    },
+    {
+        "Milotic": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_23.png"
+    },
+    {
+        "Spheal": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_24.png"
+    },
+    {
+        "Sealeo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_25.png"
+    },
+    {
+        "Walrein": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_26.png"
+    },
+    {
+        "Flaaffy": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_27.png"
+    },
+    {
+        "Luvdisc": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_27.png"
+    },
+    {
+        "Buizel": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_28.png"
+    },
+    {
+        "Forretress": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_28.png"
+    },
+    {
+        "Floatzel": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_29.png"
+    },
+    {
+        "Graveler": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_29.png"
+    },
+    {
+        "Horsea": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_29.png"
+    },
+    {
+        "Bergmite": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_30.png"
+    },
+    {
+        "Seadra": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_30.png"
+    },
+    {
+        "Avalugg": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_31.png"
+    },
+    {
+        "Houndoom": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_34.png"
+    },
+    {
+        "Dusknoir": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_40.png"
+    },
+    {
+        "Espurr": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_42.png"
+    },
+    {
+        "Skrelp": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_44.png"
+    },
+    {
+        "Tynamo": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_44.png"
+    },
+    {
+        "Eelektrik": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_45.png"
+    },
+    {
+        "Geodude": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_45.png"
+    },
+    {
+        "Eelektross": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_46.png"
+    },
+    {
+        "Slowking": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_48.png"
+    },
+    {
+        "Sneasel": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_50.png"
+    },
+    {
+        "Corphish": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_52.png"
+    },
+    {
+        "Weavile": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_52.png"
+    },
+    {
+        "Grimer": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_57.png"
+    },
+    {
+        "Houndour": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_59.png"
+    },
+    {
+        "Scrafty": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_59.png"
+    },
+    {
+        "Flab\u00e9b\u00e9": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_62.png"
+    },
+    {
+        "Mareep": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_64.png"
+    },
+    {
+        "Florges": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_66.png"
+    },
+    {
+        "Nincada": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX3/EX3_EN_66.png"
+    },
+    {
+        "Carbink": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_68.png"
+    },
+    {
+        "Sawk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_72.png"
+    },
+    {
+        "Pidgey": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_75.png"
+    },
+    {
+        "Pidgeotto": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_76.png"
+    },
+    {
+        "Pidgeot": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_77.png"
+    },
+    {
+        "Sentret": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_81.png"
+    },
+    {
+        "Furret": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_82.png"
+    },
+    {
+        "Buneary": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_84.png"
+    },
+    {
+        "Lopunny": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY2/XY2_EN_85.png"
+    },
+    {
+        "Bouffalant": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM3/SM3_EN_108.png"
+    },
+    {
+        "Bulbasaur": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_1.png"
+    },
+    {
+        "Ivysaur": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_2.png"
+    },
+    {
+        "Venusaur": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_3.png"
+    },
+    {
+        "Carnivine": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_6.png"
+    },
+    {
+        "Shaymin (Sky Forme)": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_7.png"
+    },
+    {
+        "Shelmet": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_8.png"
+    },
+    {
+        "Accelgor": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_9.png"
+    },
+    {
+        "Larvesta": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_12.png"
+    },
+    {
+        "Totodile": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_18.png"
+    },
+    {
+        "Croconaw": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_19.png"
+    },
+    {
+        "Cubchoo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_21.png"
+    },
+    {
+        "Beartic": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_22.png"
+    },
+    {
+        "Amaura": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_25.png"
+    },
+    {
+        "Aurorus": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_26.png"
+    },
+    {
+        "Dedenne": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_34.png"
+    },
+    {
+        "Jynx": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_37.png"
+    },
+    {
+        "Cubone": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX4/EX4_EN_40.png"
+    },
+    {
+        "Golett": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_42.png"
+    },
+    {
+        "Golurk": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_43.png"
+    },
+    {
+        "Squirtle": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX4/EX4_EN_46.png"
+    },
+    {
+        "Stunfisk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_46.png"
+    },
+    {
+        "Purrloin": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_48.png"
+    },
+    {
+        "Hitmontop": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_49.png"
+    },
+    {
+        "Liepard": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_49.png"
+    },
+    {
+        "Hoopa(Hoopa Unbound)": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM35/SM35_EN_55.png"
+    },
+    {
+        "Mienfoo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_56.png"
+    },
+    {
+        "Mienshao": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_57.png"
+    },
+    {
+        "Tyrunt": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_61.png"
+    },
+    {
+        "Tyrantrum": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_62.png"
+    },
+    {
+        "Klefki": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_73.png"
+    },
+    {
+        "Noivern": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_77.png"
+    },
+    {
+        "Lickitung": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_78.png"
+    },
+    {
+        "Lickilicky": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY3/XY3_EN_79.png"
+    },
+    {
+        "Banette": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_1.png"
+    },
+    {
+        "Venonat": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_1.png"
+    },
+    {
+        "Venomoth": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_2.png"
+    },
+    {
+        "Yanma": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_3.png"
+    },
+    {
+        "Sewaddle": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_5.png"
+    },
+    {
+        "Exploud": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_6.png"
+    },
+    {
+        "Swadloon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_6.png"
+    },
+    {
+        "Karrablast": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_7.png"
+    },
+    {
+        "Leavanny": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_7.png"
+    },
+    {
+        "Alolan Marowak": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_12.png"
+    },
+    {
+        "Bellossom": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_16.png"
+    },
+    {
+        "Chimecho": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_17.png"
+    },
+    {
+        "Finneon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_18.png"
+    },
+    {
+        "Gorebyss": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_18.png"
+    },
+    {
+        "Huntail": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_19.png"
+    },
+    {
+        "Lumineon": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_19.png"
+    },
+    {
+        "Swinub": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_19.png"
+    },
+    {
+        "Frillish": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_20.png"
+    },
+    {
+        "Piloswine": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_20.png"
+    },
+    {
+        "Jellicent": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_21.png"
+    },
+    {
+        "Mamoswine": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_21.png"
+    },
+    {
+        "Remoraid": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_22.png"
+    },
+    {
+        "Octillery": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_23.png"
+    },
+    {
+        "Rain Castform": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_23.png"
+    },
+    {
+        "Relicanth": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_24.png"
+    },
+    {
+        "Pachirisu": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_25.png"
+    },
+    {
+        "Snow-cloud Castform": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_25.png"
+    },
+    {
+        "Sunny Castform": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_26.png"
+    },
+    {
+        "Tropius": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_27.png"
+    },
+    {
+        "Regice": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_28.png"
+    },
+    {
+        "Shellos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_29.png"
+    },
+    {
+        "Emolga": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_35.png"
+    },
+    {
+        "Gulpin": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_37.png"
+    },
+    {
+        "Igglybuff": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_37.png"
+    },
+    {
+        "Swalot": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_38.png"
+    },
+    {
+        "Loudred": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_39.png"
+    },
+    {
+        "Misdreavus": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_39.png"
+    },
+    {
+        "Mankey": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_50.png"
+    },
+    {
+        "Primeape": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_51.png"
+    },
+    {
+        "Gastrodon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_54.png"
+    },
+    {
+        "Chikorita": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_55.png"
+    },
+    {
+        "Clamperl": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_58.png"
+    },
+    {
+        "Deino": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_60.png"
+    },
+    {
+        "Zweilous": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_61.png"
+    },
+    {
+        "Hydreigon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_62.png"
+    },
+    {
+        "Escavalier": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY4/XY4_EN_64.png"
+    },
+    {
+        "Kommo-o": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_77.png"
+    },
+    {
+        "Togepi": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_78.png"
+    },
+    {
+        "Starly": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_81.png"
+    },
+    {
+        "Staravia": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_82.png"
+    },
+    {
+        "Whismur": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX5/EX5_EN_82.png"
+    },
+    {
+        "Staraptor": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM4/SM4_EN_83.png"
+    },
+    {
+        "Dewgong": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_3.png"
+    },
+    {
+        "Exeggutor": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_5.png"
+    },
+    {
+        "Turtwig": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_6.png"
+    },
+    {
+        "Marowak": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_7.png"
+    },
+    {
+        "Grotle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_8.png"
+    },
+    {
+        "Nidoking": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_8.png"
+    },
+    {
+        "Torterra": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_9.png"
+    },
+    {
+        "Cherubi": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_10.png"
+    },
+    {
+        "Cherrim": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_11.png"
+    },
+    {
+        "Mow Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_14.png"
+    },
+    {
+        "Chimchar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_20.png"
+    },
+    {
+        "Monferno": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_22.png"
+    },
+    {
+        "Infernape": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_23.png"
+    },
+    {
+        "Heat Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_24.png"
+    },
+    {
+        "Piplup": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_31.png"
+    },
+    {
+        "Prinplup": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_33.png"
+    },
+    {
+        "Nidorina": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_40.png"
+    },
+    {
+        "Frost Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_41.png"
+    },
+    {
+        "Nidorino": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_41.png"
+    },
+    {
+        "Raticate": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_48.png"
+    },
+    {
+        "Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_50.png"
+    },
+    {
+        "Wartortle": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_50.png"
+    },
+    {
+        "Drifloon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_51.png"
+    },
+    {
+        "Giratina \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_58.png"
+    },
+    {
+        "Cresselia": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_59.png"
+    },
+    {
+        "Lunala \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_62.png"
+    },
+    {
+        "Cranidos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_64.png"
+    },
+    {
+        "Rampardos": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_65.png"
+    },
+    {
+        "Nidoran\u2640": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY5/XY5_EN_66.png"
+    },
+    {
+        "Hippopotas": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_68.png"
+    },
+    {
+        "Hippowdon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_69.png"
+    },
+    {
+        "Nidoran \u2640": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_70.png"
+    },
+    {
+        "Nidoran \u2642": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_71.png"
+    },
+    {
+        "Darkrai \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_77.png"
+    },
+    {
+        "Rattata": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_77.png"
+    },
+    {
+        "Seel": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX6/EX6_EN_78.png"
+    },
+    {
+        "Shieldon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_84.png"
+    },
+    {
+        "Bastiodon": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_85.png"
+    },
+    {
+        "Drilbur": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY5/XY5_EN_89.png"
+    },
+    {
+        "Solgaleo \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_89.png"
+    },
+    {
+        "Excadrill": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY5/XY5_EN_96.png"
+    },
+    {
+        "Glameow": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_108.png"
+    },
+    {
+        "Purugly": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_109.png"
+    },
+    {
+        "Fan Rotom": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_110.png"
+    },
+    {
+        "Jumpluff": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_11.png"
+    },
+    {
+        "Togetic": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_14.png"
+    },
+    {
+        "Magby": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_24.png"
+    },
+    {
+        "Volcanion \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_31.png"
+    },
+    {
+        "Uxie": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_41.png"
+    },
+    {
+        "Mesprit": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_42.png"
+    },
+    {
+        "Skiploom": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_49.png"
+    },
+    {
+        "Hoppip": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_57.png"
+    },
+    {
+        "Larvitar": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_62.png"
+    },
+    {
+        "Diancie \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_74.png"
+    },
+    {
+        "Spinarak": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_78.png"
+    },
+    {
+        "Arceus \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_96.png"
+    },
+    {
+        "Mudkip \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_107.png"
+    },
+    {
+        "Torchic \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_108.png"
+    },
+    {
+        "Treecko \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX7/EX7_EN_109.png"
+    },
+    {
+        "Ariados": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM7/SM7_EN_6.png"
+    },
+    {
+        "Deoxys [Normal Forme]": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX8/EX8_EN_16.png"
+    },
+    {
+        "Deoxys [Attack Forme]": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX8/EX8_EN_17.png"
+    },
+    {
+        "Deoxys [Defense Forme]": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX8/EX8_EN_18.png"
+    },
+    {
+        "Togekiss": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY6/XY6_EN_45.png"
+    },
+    {
+        "Pupitar": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM7/SM7_EN_75.png"
+    },
+    {
+        "Jirachi \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM7/SM7_EN_97.png"
+    },
+    {
+        "Latias \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX8/EX8_EN_105.png"
+    },
+    {
+        "Latios \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX8/EX8_EN_106.png"
+    },
+    {
+        "Latias \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM7/SM7_EN_107.png"
+    },
+    {
+        "Latios \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM7/SM7_EN_108.png"
+    },
+    {
+        "Deoxys [Speed Forme]": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX9/EX9_EN_2.png"
+    },
+    {
+        "Victini \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM75/SM75_EN_7.png"
+    },
+    {
+        "Combee": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY7/XY7_EN_9.png"
+    },
+    {
+        "Darmanitan": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM75/SM75_EN_9.png"
+    },
+    {
+        "Vespiquen": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY7/XY7_EN_10.png"
+    },
+    {
+        "Zangoose": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX9/EX9_EN_21.png"
+    },
+    {
+        "Unown": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY7/XY7_EN_30.png"
+    },
+    {
+        "Bayleef": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_7.png"
+    },
+    {
+        "Sunflora": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_16.png"
+    },
+    {
+        "Ursaring": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_18.png"
+    },
+    {
+        "Celebi \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_19.png"
+    },
+    {
+        "Stantler": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_32.png"
+    },
+    {
+        "Tyrogue": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_33.png"
+    },
+    {
+        "Aipom": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_34.png"
+    },
+    {
+        "Smeargle": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_48.png"
+    },
+    {
+        "Woobat": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_71.png"
+    },
+    {
+        "Swoobat": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_72.png"
+    },
+    {
+        "Beheeyem": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_74.png"
+    },
+    {
+        "Sunkern": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_76.png"
+    },
+    {
+        "Teddiursa": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_77.png"
+    },
+    {
+        "Blitzle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_81.png"
+    },
+    {
+        "Zebstrika": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_82.png"
+    },
+    {
+        "Gallade": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_84.png"
+    },
+    {
+        "Yamask": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_99.png"
+    },
+    {
+        "Cofagrigus": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_100.png"
+    },
+    {
+        "Nihilego": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_106.png"
+    },
+    {
+        "Naganadel": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_108.png"
+    },
+    {
+        "Fraxure": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_110.png"
+    },
+    {
+        "Entei \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_113.png"
+    },
+    {
+        "Raikou \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_114.png"
+    },
+    {
+        "Suicune \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_115.png"
+    },
+    {
+        "Rufflet": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_129.png"
+    },
+    {
+        "Braviary": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY8/XY8_EN_130.png"
+    },
+    {
+        "Xerneas \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_144.png"
+    },
+    {
+        "Ditto \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_154.png"
+    },
+    {
+        "Unown A": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_A.png"
+    },
+    {
+        "Unown B": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_B.png"
+    },
+    {
+        "Unown C": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_C.png"
+    },
+    {
+        "Unown D": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_D.png"
+    },
+    {
+        "Unown E": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_E.png"
+    },
+    {
+        "Unown F": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_F.png"
+    },
+    {
+        "Unown G": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_G.png"
+    },
+    {
+        "Unown H": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_H.png"
+    },
+    {
+        "Unown I": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_I.png"
+    },
+    {
+        "Unown J": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_J.png"
+    },
+    {
+        "Unown K": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_K.png"
+    },
+    {
+        "Unown L": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_L.png"
+    },
+    {
+        "Unown M": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_M.png"
+    },
+    {
+        "Unown N": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_N.png"
+    },
+    {
+        "Unown O": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_O.png"
+    },
+    {
+        "Unown P": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_P.png"
+    },
+    {
+        "Unown Q": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_Q.png"
+    },
+    {
+        "Unown R": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_R.png"
+    },
+    {
+        "Unown S": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_S.png"
+    },
+    {
+        "Unown T": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_T.png"
+    },
+    {
+        "Unown U": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_U.png"
+    },
+    {
+        "Unown W": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_W.png"
+    },
+    {
+        "Unown X": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_X.png"
+    },
+    {
+        "Unown Y": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_Y.png"
+    },
+    {
+        "Unown Z": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_Z.png"
+    },
+    {
+        "Unown !": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX10/EX10_EN_Unown_!.png"
+    },
+    {
+        "Beedrill \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_1.png"
+    },
+    {
+        "Crobat \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_2.png"
+    },
+    {
+        "Dragonite \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_3.png"
+    },
+    {
+        "Espeon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_4.png"
+    },
+    {
+        "Flareon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_5.png"
+    },
+    {
+        "Kricketot": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY9/XY9_EN_5.png"
+    },
+    {
+        "Gardevoir \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_6.png"
+    },
+    {
+        "Kricketune": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY9/XY9_EN_6.png"
+    },
+    {
+        "Jolteon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_7.png"
+    },
+    {
+        "Latias \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_8.png"
+    },
+    {
+        "Latios \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_9.png"
+    },
+    {
+        "Marowak \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_10.png"
+    },
+    {
+        "Shaymin \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_10.png"
+    },
+    {
+        "Metagross \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_11.png"
+    },
+    {
+        "Mewtwo \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_12.png"
+    },
+    {
+        "Rayquaza \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_13.png"
+    },
+    {
+        "Salamence \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_14.png"
+    },
+    {
+        "Starmie \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_15.png"
+    },
+    {
+        "Tyranitar \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_16.png"
+    },
+    {
+        "Umbreon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_17.png"
+    },
+    {
+        "Vaporeon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_18.png"
+    },
+    {
+        "Azumarill \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_19.png"
+    },
+    {
+        "Holon's Electrode": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_21.png"
+    },
+    {
+        "Holon's Magneton": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_22.png"
+    },
+    {
+        "Mightyena \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_24.png"
+    },
+    {
+        "Blastoise": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_25.png"
+    },
+    {
+        "Sandslash \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_27.png"
+    },
+    {
+        "Swanna": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY9/XY9_EN_37.png"
+    },
+    {
+        "Dragonair \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_41.png"
+    },
+    {
+        "Metang \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_49.png"
+    },
+    {
+        "Pupitar \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_51.png"
+    },
+    {
+        "Tapu Koko \u25c7": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_51.png"
+    },
+    {
+        "Zeraora": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_52.png"
+    },
+    {
+        "Shelgon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_53.png"
+    },
+    {
+        "Bagon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_57.png"
+    },
+    {
+        "Nidoran\u2642": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_57.png"
+    },
+    {
+        "Beldum \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_59.png"
+    },
+    {
+        "Muk": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_63.png"
+    },
+    {
+        "Dratini \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_65.png"
+    },
+    {
+        "Eevee \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_68.png"
+    },
+    {
+        "Holon's Magnemite": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_70.png"
+    },
+    {
+        "Larvitar \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_73.png"
+    },
+    {
+        "Kabutops": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_78.png"
+    },
+    {
+        "Groudon \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_111.png"
+    },
+    {
+        "Kyogre  \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_112.png"
+    },
+    {
+        "Metagross \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX11/EX11_EN_113.png"
+    },
+    {
+        "Aerodactyl": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_130.png"
+    },
+    {
+        "Burmy": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_2.png"
+    },
+    {
+        "Wormadam": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_3.png"
+    },
+    {
+        "Mothim": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_4.png"
+    },
+    {
+        "Servine": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_6.png"
+    },
+    {
+        "Deerling": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_8.png"
+    },
+    {
+        "Solosis": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_33.png"
+    },
+    {
+        "Duosion": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_34.png"
+    },
+    {
+        "Reuniclus": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY10/XY10_EN_35.png"
+    },
+    {
+        "Regice \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX12/EX12_EN_90.png"
+    },
+    {
+        "Regirock \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX12/EX12_EN_91.png"
+    },
+    {
+        "Registeel \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX12/EX12_EN_92.png"
+    },
+    {
+        "Pikachu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX12/EX12_EN_93.png"
+    },
+    {
+        "Happiny": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM10/SM10_EN_161.png"
+    },
+    {
+        "Froslass": "https://assets.pokemon.com/assets/cms2/img/cards/web/G1/G1_EN_RC8.png"
+    },
+    {
+        "Armaldo \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_1.png"
+    },
+    {
+        "Cradily \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_2.png"
+    },
+    {
+        "Deoxys \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_3.png"
+    },
+    {
+        "Flygon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_7.png"
+    },
+    {
+        "Gyarados \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_8.png"
+    },
+    {
+        "Kabutops \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_9.png"
+    },
+    {
+        "Dwebble": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_10.png"
+    },
+    {
+        "Kingdra \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_10.png"
+    },
+    {
+        "Crustle": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_11.png"
+    },
+    {
+        "Foongus": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_12.png"
+    },
+    {
+        "Omastar \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_13.png"
+    },
+    {
+        "Pidgeot \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_14.png"
+    },
+    {
+        "Raichu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_15.png"
+    },
+    {
+        "Vileplume \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_17.png"
+    },
+    {
+        "Bellossom \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_19.png"
+    },
+    {
+        "Dewott": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_31.png"
+    },
+    {
+        "Aerodactyl \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_35.png"
+    },
+    {
+        "Chimecho \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_37.png"
+    },
+    {
+        "Exeggutor \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_41.png"
+    },
+    {
+        "Gloom \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_42.png"
+    },
+    {
+        "Basculin": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_43.png"
+    },
+    {
+        "Golduck \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_43.png"
+    },
+    {
+        "Holon's Castform": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_44.png"
+    },
+    {
+        "Tirtouga": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_44.png"
+    },
+    {
+        "Carracosta": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_45.png"
+    },
+    {
+        "Cryogonal": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_46.png"
+    },
+    {
+        "Persian \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_48.png"
+    },
+    {
+        "Pidgeotto \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_49.png"
+    },
+    {
+        "Primeape \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_50.png"
+    },
+    {
+        "Seadra \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_52.png"
+    },
+    {
+        "Sharpedo \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_53.png"
+    },
+    {
+        "Vibrava \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_54.png"
+    },
+    {
+        "Anorith \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_57.png"
+    },
+    {
+        "Carvanha \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_61.png"
+    },
+    {
+        "Exeggcute \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_65.png"
+    },
+    {
+        "Horsea \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_66.png"
+    },
+    {
+        "Kabuto \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_67.png"
+    },
+    {
+        "Lileep \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_68.png"
+    },
+    {
+        "Magikarp \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_69.png"
+    },
+    {
+        "Mankey \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_70.png"
+    },
+    {
+        "Klink": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_71.png"
+    },
+    {
+        "Meowth \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_71.png"
+    },
+    {
+        "Klang": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_72.png"
+    },
+    {
+        "Klinklang": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_73.png"
+    },
+    {
+        "Oddish \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_73.png"
+    },
+    {
+        "Omanyte \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_74.png"
+    },
+    {
+        "Pichu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_76.png"
+    },
+    {
+        "Pidgey \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_77.png"
+    },
+    {
+        "Psyduck \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_81.png"
+    },
+    {
+        "Trapinch \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_84.png"
+    },
+    {
+        "Ambipom": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_91.png"
+    },
+    {
+        "Gyarados \u2605 \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_102.png"
+    },
+    {
+        "Mewtwo \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_103.png"
+    },
+    {
+        "Pikachu \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX13/EX13_EN_104.png"
+    },
+    {
+        "Archen": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_120.png"
+    },
+    {
+        "Archeops": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_121.png"
+    },
+    {
+        "Munchlax": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_173.png"
+    },
+    {
+        "Audino": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_177.png"
+    },
+    {
+        "Blastoise \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_2.png"
+    },
+    {
+        "Charizard \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_4.png"
+    },
+    {
+        "Ludicolo \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_6.png"
+    },
+    {
+        "Cacturne \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_15.png"
+    },
+    {
+        "Fearow \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_18.png"
+    },
+    {
+        "Grovyle \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_19.png"
+    },
+    {
+        "Kingler \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_22.png"
+    },
+    {
+        "Pelipper \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_26.png"
+    },
+    {
+        "Charmeleon \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_30.png"
+    },
+    {
+        "Farfetch\u2019d": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM115/SM115_EN_45.png"
+    },
+    {
+        "Charmander \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_49.png"
+    },
+    {
+        "Treecko \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_68.png"
+    },
+    {
+        "Alakazam \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_99.png"
+    },
+    {
+        "Celebi \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX14/EX14_EN_100.png"
+    },
+    {
+        "\u30ca\u30c3\u30b7\u30fc[Exeggutor]": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY12/XY12_EN_109.png"
+    },
+    {
+        "Imakuni?'s Doduo": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY12/XY12_EN_112.png"
+    },
+    {
+        "Ampharos \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_1.png"
+    },
+    {
+        "Feraligatr \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_2.png"
+    },
+    {
+        "Heracross \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_3.png"
+    },
+    {
+        "Meganium \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_4.png"
+    },
+    {
+        "Milotic \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_5.png"
+    },
+    {
+        "Nidoking \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_6.png"
+    },
+    {
+        "Nidoqueen \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_7.png"
+    },
+    {
+        "Ninetales \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_8.png"
+    },
+    {
+        "Pinsir \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_9.png"
+    },
+    {
+        "Snorlax \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_10.png"
+    },
+    {
+        "Togetic \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_11.png"
+    },
+    {
+        "Typhlosion \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_12.png"
+    },
+    {
+        "Arbok \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_13.png"
+    },
+    {
+        "Cloyster \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_14.png"
+    },
+    {
+        "Dewgong \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_15.png"
+    },
+    {
+        "Gligar \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_16.png"
+    },
+    {
+        "Sawsbuck": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM12/SM12_EN_16.png"
+    },
+    {
+        "Jynx \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_17.png"
+    },
+    {
+        "Ledian \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_18.png"
+    },
+    {
+        "Lickitung \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_19.png"
+    },
+    {
+        "Mantine \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_20.png"
+    },
+    {
+        "Quagsire \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_21.png"
+    },
+    {
+        "Tropius \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_23.png"
+    },
+    {
+        "Xatu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_25.png"
+    },
+    {
+        "Bayleef \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_26.png"
+    },
+    {
+        "Croconaw \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_27.png"
+    },
+    {
+        "Electabuzz \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_29.png"
+    },
+    {
+        "Flaaffy \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_30.png"
+    },
+    {
+        "Pignite": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM12/SM12_EN_32.png"
+    },
+    {
+        "Kirlia \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_33.png"
+    },
+    {
+        "Nidorina \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_34.png"
+    },
+    {
+        "Nidorino \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_35.png"
+    },
+    {
+        "Quilava \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_36.png"
+    },
+    {
+        "Smeargle \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_39.png"
+    },
+    {
+        "Swellow \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_40.png"
+    },
+    {
+        "Togepi \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_41.png"
+    },
+    {
+        "Chikorita \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_44.png"
+    },
+    {
+        "Cyndaquil \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_45.png"
+    },
+    {
+        "Ekans \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_47.png"
+    },
+    {
+        "Elekid \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_48.png"
+    },
+    {
+        "Feebas \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_49.png"
+    },
+    {
+        "Ledyba \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_53.png"
+    },
+    {
+        "Mareep \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_54.png"
+    },
+    {
+        "Natu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_55.png"
+    },
+    {
+        "Nidoran \u2640 \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_56.png"
+    },
+    {
+        "Nidoran\u2642 \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_57.png"
+    },
+    {
+        "Ralts \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_61.png"
+    },
+    {
+        "Seel \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_62.png"
+    },
+    {
+        "Shellder \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_63.png"
+    },
+    {
+        "Smoochum \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_64.png"
+    },
+    {
+        "Swablu \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_65.png"
+    },
+    {
+        "Taillow \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_66.png"
+    },
+    {
+        "Totodile \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_67.png"
+    },
+    {
+        "Vulpix \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_70.png"
+    },
+    {
+        "Wooper \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_71.png"
+    },
+    {
+        "Charizard \u2605 \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_100.png"
+    },
+    {
+        "Mew \u2605 \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX15/EX15_EN_101.png"
+    },
+    {
+        "Throh": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM12/SM12_EN_118.png"
+    },
+    {
+        "Flareon \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX16/EX16_EN_100.png"
+    },
+    {
+        "Jolteon \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX16/EX16_EN_101.png"
+    },
+    {
+        "Vaporeon \u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/EX16/EX16_EN_102.png"
+    },
+    {
+        "Budew": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP1/DP1_EN_43.png"
+    },
+    {
+        "Mantyke": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP1/DP1_EN_55.png"
+    },
+    {
+        "Bonsly": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP1/DP1_EN_71.png"
+    },
+    {
+        "Mime Jr.": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP1/DP1_EN_90.png"
+    },
+    {
+        "Alakazam": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP2/DP2_EN_2.png"
+    },
+    {
+        "Chingling": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP2/DP2_EN_42.png"
+    },
+    {
+        "Abra": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP2/DP2_EN_69.png"
+    },
+    {
+        "Gastrodon East Sea": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP3/DP3_EN_8.png"
+    },
+    {
+        "Gastrodon West Sea": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP3/DP3_EN_9.png"
+    },
+    {
+        "Shellos East Sea": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP3/DP3_EN_106.png"
+    },
+    {
+        "Shellos West Sea": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP3/DP3_EN_107.png"
+    },
+    {
+        "Deoxys Normal Forme": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_1.png"
+    },
+    {
+        "Deoxys Attack Forme": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_24.png"
+    },
+    {
+        "Deoxys Defense Forme": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_25.png"
+    },
+    {
+        "Deoxys Speed Forme": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_26.png"
+    },
+    {
+        "Castform Rain Form": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_49.png"
+    },
+    {
+        "Castform Snow-cloud Form": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_50.png"
+    },
+    {
+        "Castform Sunny Form": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_51.png"
+    },
+    {
+        "Unown ?": "https://assets.pokemon.com/assets/cms2/img/cards/web/DP6/DP6_EN_82.png"
+    },
+    {
+        "Bronzong [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_16.png"
+    },
+    {
+        "Drapion [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_17.png"
+    },
+    {
+        "Espeon [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_18.png"
+    },
+    {
+        "Gallade [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_20.png"
+    },
+    {
+        "Golem [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_23.png"
+    },
+    {
+        "Heracross [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_24.png"
+    },
+    {
+        "Mr. Mime [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_28.png"
+    },
+    {
+        "Rhyperior [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_32.png"
+    },
+    {
+        "Vespiquen [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_35.png"
+    },
+    {
+        "Yanmega [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_37.png"
+    },
+    {
+        "Alakazam [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_38.png"
+    },
+    {
+        "Hippowdon [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_42.png"
+    },
+    {
+        "Infernape [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_43.png"
+    },
+    {
+        "Rapidash [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_47.png"
+    },
+    {
+        "Scizor [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_48.png"
+    },
+    {
+        "Whiscash [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_54.png"
+    },
+    {
+        "Flareon [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_60.png"
+    },
+    {
+        "Gliscor [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_62.png"
+    },
+    {
+        "Houndoom [\u56db]": "https://assets.pokemon.com/assets/cms2/img/cards/web/PL2/PL2_EN_65.png"
+    },
+    {
+        "Detective Pikachu": "https://assets.pokemon.com/assets/cms2/img/cards/web/DET/DET_EN_SM190.png"
+    },
+    {
+        "Pichu Bros.": "https://assets.pokemon.com/assets/cms2/img/cards/web/POP3/POP%20Series_3_EN_16.png"
+    },
+    {
+        "Mew \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/POP5/POP_5_Card_3.png"
+    },
+    {
+        "Zangoose \u03b4": "https://assets.pokemon.com/assets/cms2/img/cards/web/POP5/POP_5_Card_15.png"
+    },
+    {
+        "Espeon\u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/POP5/POP_5_Card_16.png"
+    },
+    {
+        "Umbreon\u2605": "https://assets.pokemon.com/assets/cms2/img/cards/web/POP5/POP_5_Card_17.png"
+    }
+]
