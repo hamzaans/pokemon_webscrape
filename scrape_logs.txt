@@ -1,3 +1,2632 @@
+scrolling to bottom of page
+Alakazam
+['Synchronize', 'Inner Focus']
+Magic Guard
+
+Amoonguss
+Effect Spore
+Regenerator
+
+Azumarill
+['Thick Fat', 'Huge Power']
+Sap Sipper
+
+Blissey
+['Natural Cure', 'Serene Grace']
+Healer
+
+Chansey
+['Natural Cure', 'Serene Grace']
+Healer
+
+Cinderace
+Blaze
+Libero
+
+Clefable
+['Cute Charm', 'Magic Guard']
+Unaware
+
+Corviknight
+['Pressure', 'Unnerve']
+Mirror Armor
+
+Crawdaunt
+['Hyper Cutter', 'Shell Armor']
+Adaptability
+
+Dragapult
+['Clear Body', 'Infiltrator']
+Cursed Body
+
+Excadrill
+['Sand Rush', 'Sand Force']
+Mold Breaker
+
+Ferrothorn
+Iron Barbs
+Anticipation
+
+Hawlucha
+['Limber', 'Unburden']
+Mold Breaker
+
+Hippowdon
+Sand Stream
+Sand Force
+
+Hydreigon
+Levitate
+
+
+Kingdra
+['Swift Swim', 'Sniper']
+Damp
+
+Kommo-o
+['Bulletproof', 'Soundproof']
+Overcoat
+
+Magearna
+Soul-Heart
+
+
+Magearna Original
+Soul-Heart
+
+
+Magnezone
+['Magnet Pull', 'Sturdy']
+Analytic
+
+Mandibuzz
+['Big Pecks', 'Overcoat']
+Weak Armor
+
+Marowak Alola
+['Cursed Body', 'Lightning Rod']
+Rock Head
+
+Mew
+Synchronize
+
+
+Pelipper
+['Keen Eye', 'Drizzle']
+Rain Dish
+
+Rillaboom
+Overgrow
+Grassy Surge
+
+Rotom Heat
+Levitate
+
+
+Scizor
+['Swarm', 'Technician']
+Light Metal
+
+Slowbro
+['Oblivious', 'Own Tempo']
+Regenerator
+
+Tangrowth
+['Chlorophyll', 'Leaf Guard']
+Regenerator
+
+Togekiss
+['Hustle', 'Serene Grace']
+Super Luck
+
+Torkoal
+['White Smoke', 'Drought']
+Shell Armor
+
+Toxapex
+['Merciless', 'Limber']
+Regenerator
+
+Urshifu
+Unseen Fist
+
+
+Urshifu Rapid-Strike
+Unseen Fist
+
+
+Venusaur
+Overgrow
+Chlorophyll
+
+Volcarona
+Flame Body
+Swarm
+
+Zeraora
+Volt Absorb
+
+
+an error has occured
+<h3>UUBL</h3>
+Aegislash
+Stance Change
+
+
+Conkeldurr
+['Guts', 'Sheer Force']
+Iron Fist
+
+Diggersby
+['Pickup', 'Cheek Pouch']
+Huge Power
+
+Dracozolt
+['Volt Absorb', 'Hustle']
+Sand Rush
+
+Durant
+['Swarm', 'Hustle']
+Truant
+
+Gengar
+Cursed Body
+
+
+Gyarados
+Intimidate
+Moxie
+
+Haxorus
+['Rivalry', 'Mold Breaker']
+Unnerve
+
+Ninetales Alola
+Snow Cloak
+Snow Warning
+
+Primarina
+Torrent
+Liquid Voice
+
+Scolipede
+['Poison Point', 'Swarm']
+Speed Boost
+
+Weavile
+Pressure
+Pickpocket
+
+an error has occured
+<h3>Uber</h3>
+Darmanitan Galar
+Gorilla Tactics
+Zen Mode
+
+Dracovish
+['Water Absorb', 'Strong Jaw']
+Sand Rush
+
+Eternatus
+Pressure
+
+
+Kyurem Black
+Teravolt
+
+
+Kyurem White
+Turboblaze
+
+
+Lunala
+Shadow Shield
+
+
+Marshadow
+Technician
+
+
+Melmetal
+Iron Fist
+
+
+Mewtwo
+Pressure
+Unnerve
+
+Necrozma Dawn-Wings
+Prism Armor
+
+
+Necrozma Dusk-Mane
+Prism Armor
+
+
+Reshiram
+Turboblaze
+
+
+Solgaleo
+Full Metal Body
+
+
+Zacian
+Intrepid Sword
+
+
+Zacian Crowned
+Intrepid Sword
+
+
+Zamazenta
+Dauntless Shield
+
+
+Zamazenta Crowned
+Dauntless Shield
+
+
+Zekrom
+Teravolt
+
+
+an error has occured
+<h3>Uber by technicality</h3>
+Alcremie Gmax
+Sweet Veil
+Aroma Veil
+
+Appletun Gmax
+['Ripen', 'Gluttony']
+Thick Fat
+
+Blastoise Gmax
+Torrent
+Rain Dish
+
+Butterfree Gmax
+Compound Eyes
+Tinted Lens
+
+Centiskorch Gmax
+['Flash Fire', 'White Smoke']
+Flame Body
+
+Charizard Gmax
+Blaze
+Solar Power
+
+Cinderace Gmax
+Blaze
+Libero
+
+Coalossal Gmax
+['Steam Engine', 'Flame Body']
+Flash Fire
+
+Copperajah Gmax
+Sheer Force
+Heavy Metal
+
+Corviknight Gmax
+['Pressure', 'Unnerve']
+Mirror Armor
+
+Drednaw Gmax
+['Strong Jaw', 'Shell Armor']
+Swift Swim
+
+Duraludon Gmax
+['Light Metal', 'Heavy Metal']
+Stalwart
+
+Eevee Gmax
+['Run Away', 'Adaptability']
+Anticipation
+
+Flapple Gmax
+['Ripen', 'Gluttony']
+Hustle
+
+Garbodor Gmax
+['Stench', 'Weak Armor']
+Aftermath
+
+Gengar Gmax
+Cursed Body
+
+
+Grimmsnarl Gmax
+['Prankster', 'Frisk']
+Pickpocket
+
+Hatterene Gmax
+['Healer', 'Anticipation']
+Magic Bounce
+
+Inteleon Gmax
+Torrent
+Sniper
+
+Kingler Gmax
+['Hyper Cutter', 'Shell Armor']
+Sheer Force
+
+Lapras Gmax
+['Water Absorb', 'Shell Armor']
+Hydration
+
+Machamp Gmax
+['Guts', 'No Guard']
+Steadfast
+
+Meowth Gmax
+['Pickup', 'Technician']
+Unnerve
+
+Orbeetle Gmax
+['Swarm', 'Frisk']
+Telepathy
+
+Pikachu Gmax
+Static
+Lightning Rod
+
+Rillaboom Gmax
+Overgrow
+Grassy Surge
+
+Sandaconda Gmax
+['Sand Spit', 'Shed Skin']
+Sand Veil
+
+Snorlax Gmax
+['Immunity', 'Thick Fat']
+Gluttony
+
+Toxtricity Gmax
+['Punk Rock', 'Plus']
+Technician
+
+Toxtricity Low-Key-Gmax
+['Punk Rock', 'Minus']
+Technician
+
+Urshifu Gmax
+Unseen Fist
+
+
+Urshifu Rapid-Strike-Gmax
+Unseen Fist
+
+
+Venusaur Gmax
+Overgrow
+Chlorophyll
+
+an error has occured
+<h3>UU</h3>
+Bisharp
+['Defiant', 'Inner Focus']
+Pressure
+
+Celebi
+Natural Cure
+
+
+Chandelure
+['Flash Fire', 'Flame Body']
+Infiltrator
+
+Cloyster
+['Shell Armor', 'Skill Link']
+Overcoat
+
+Cobalion
+Justified
+
+
+Darmanitan
+Sheer Force
+Zen Mode
+
+Doublade
+No Guard
+
+
+Flygon
+Levitate
+
+
+Grimmsnarl
+['Prankster', 'Frisk']
+Pickpocket
+
+Hatterene
+['Healer', 'Anticipation']
+Magic Bounce
+
+Heracross
+['Swarm', 'Guts']
+Moxie
+
+Incineroar
+Blaze
+Intimidate
+
+Jirachi
+Serene Grace
+
+
+Keldeo
+Justified
+
+
+Keldeo Resolute
+Justified
+
+
+Krookodile
+['Intimidate', 'Moxie']
+Anger Point
+
+Kyurem
+Pressure
+
+
+Lycanroc Dusk
+Tough Claws
+
+
+Mamoswine
+['Oblivious', 'Snow Cloak']
+Thick Fat
+
+Mienshao
+['Inner Focus', 'Regenerator']
+Reckless
+
+Mimikyu
+Disguise
+
+
+Necrozma
+Prism Armor
+
+
+Noivern
+['Frisk', 'Infiltrator']
+Telepathy
+
+Obstagoon
+['Reckless', 'Guts']
+Defiant
+
+Palossand
+Water Compaction
+Sand Veil
+
+Polteageist
+Weak Armor
+Cursed Body
+
+Polteageist Antique
+Weak Armor
+Cursed Body
+
+Porygon-Z
+['Adaptability', 'Download']
+Analytic
+
+Roserade
+['Natural Cure', 'Poison Point']
+Technician
+
+Rotom Wash
+Levitate
+
+
+Scyther
+['Swarm', 'Technician']
+Steadfast
+
+Skarmory
+['Keen Eye', 'Sturdy']
+Weak Armor
+
+Slowking
+['Oblivious', 'Own Tempo']
+Regenerator
+
+Starmie
+['Illuminate', 'Natural Cure']
+Analytic
+
+Sylveon
+Cute Charm
+Pixilate
+
+Talonflame
+Flame Body
+Gale Wings
+
+Tentacruel
+['Clear Body', 'Liquid Ooze']
+Rain Dish
+
+Terrakion
+Justified
+
+
+Toxtricity
+['Punk Rock', 'Plus']
+Technician
+
+Toxtricity Low-Key
+['Punk Rock', 'Minus']
+Technician
+
+Tsareena
+['Leaf Guard', 'Queenly Majesty']
+Sweet Veil
+
+Tyranitar
+Sand Stream
+Unnerve
+
+Weezing Galar
+['Levitate', 'Neutralizing Gas']
+Misty Surge
+
+an error has occured
+<h3>RUBL</h3>
+Barbaracle
+['Tough Claws', 'Sniper']
+Pickpocket
+
+Barraskewda
+Swift Swim
+Propeller Tail
+
+Drampa
+['Berserk', 'Sap Sipper']
+Cloud Nine
+
+Goodra
+['Sap Sipper', 'Hydration']
+Gooey
+
+Indeedee
+['Inner Focus', 'Synchronize']
+Psychic Surge
+
+Indeedee F
+['Own Tempo', 'Synchronize']
+Psychic Surge
+
+Inteleon
+Torrent
+Sniper
+
+Linoone
+['Pickup', 'Gluttony']
+Quick Feet
+
+Machamp
+['Guts', 'No Guard']
+Steadfast
+
+Ninetales
+Flash Fire
+Drought
+
+Pangoro
+['Iron Fist', 'Mold Breaker']
+Scrappy
+
+Raichu Alola
+Surge Surfer
+
+
+Shiftry
+['Chlorophyll', 'Early Bird']
+Pickpocket
+
+Sigilyph
+['Wonder Skin', 'Magic Guard']
+Tinted Lens
+
+Slurpuff
+Sweet Veil
+Unburden
+
+Virizion
+Justified
+
+
+an error has occured
+<h3>RU</h3>
+Araquanid
+Water Bubble
+Water Absorb
+
+Arcanine
+['Intimidate', 'Flash Fire']
+Justified
+
+Aromatisse
+Healer
+Aroma Veil
+
+Bewear
+['Fluffy', 'Klutz']
+Unnerve
+
+Blastoise
+Torrent
+Rain Dish
+
+Braviary
+['Keen Eye', 'Sheer Force']
+Defiant
+
+Bronzong
+['Levitate', 'Heatproof']
+Heavy Metal
+
+Centiskorch
+['Flash Fire', 'White Smoke']
+Flame Body
+
+Charizard
+Blaze
+Solar Power
+
+Cinccino
+['Cute Charm', 'Technician']
+Skill Link
+
+Clawitzer
+Mega Launcher
+
+
+Claydol
+Levitate
+
+
+Coalossal
+['Steam Engine', 'Flame Body']
+Flash Fire
+
+Comfey
+['Flower Veil', 'Triage']
+Natural Cure
+
+Copperajah
+Sheer Force
+Heavy Metal
+
+Corsola Galar
+Weak Armor
+Cursed Body
+
+Dhelmise
+Steelworker
+
+
+Dragalge
+['Poison Point', 'Poison Touch']
+Adaptability
+
+Drapion
+['Battle Armor', 'Sniper']
+Keen Eye
+
+Druddigon
+['Rough Skin', 'Sheer Force']
+Mold Breaker
+
+Duraludon
+['Light Metal', 'Heavy Metal']
+Stalwart
+
+Escavalier
+['Swarm', 'Shell Armor']
+Overcoat
+
+Espeon
+Synchronize
+Magic Bounce
+
+Exeggutor Alola
+Frisk
+Harvest
+
+Exploud
+Soundproof
+Scrappy
+
+Frosmoth
+Shield Dust
+Ice Scales
+
+Galvantula
+['Compound Eyes', 'Unnerve']
+Swarm
+
+Gardevoir
+['Synchronize', 'Trace']
+Telepathy
+
+Gastrodon
+['Sticky Hold', 'Storm Drain']
+Sand Force
+
+Gigalith
+['Sturdy', 'Sand Stream']
+Sand Force
+
+Golisopod
+Emergency Exit
+
+
+Heliolisk
+['Dry Skin', 'Sand Veil']
+Solar Power
+
+Hitmonlee
+['Limber', 'Reckless']
+Unburden
+
+Jellicent
+['Water Absorb', 'Cursed Body']
+Damp
+
+Klefki
+Prankster
+Magician
+
+Lucario
+['Steadfast', 'Inner Focus']
+Justified
+
+Lycanroc
+['Keen Eye', 'Sand Rush']
+Steadfast
+
+Mantine
+['Swift Swim', 'Water Absorb']
+Water Veil
+
+Milotic
+['Marvel Scale', 'Competitive']
+Cute Charm
+
+Mudsdale
+['Own Tempo', 'Stamina']
+Inner Focus
+
+Passimian
+Receiver
+Defiant
+
+Pincurchin
+Lightning Rod
+Electric Surge
+
+Poliwrath
+['Water Absorb', 'Damp']
+Swift Swim
+
+Porygon2
+['Trace', 'Download']
+Analytic
+
+Reuniclus
+['Overcoat', 'Magic Guard']
+Regenerator
+
+Rhydon
+['Lightning Rod', 'Rock Head']
+Reckless
+
+Rhyperior
+['Lightning Rod', 'Solid Rock']
+Reckless
+
+Ribombee
+['Honey Gather', 'Shield Dust']
+Sweet Veil
+
+Rotom Mow
+Levitate
+
+
+Runerigus
+Wandering Spirit
+
+
+Sableye
+['Keen Eye', 'Stall']
+Prankster
+
+Salazzle
+Corrosion
+Oblivious
+
+Sandslash Alola
+Snow Cloak
+Slush Rush
+
+Scrafty
+['Shed Skin', 'Moxie']
+Intimidate
+
+Seismitoad
+['Swift Swim', 'Poison Touch']
+Water Absorb
+
+Sharpedo
+Rough Skin
+Speed Boost
+
+Silvally Fairy
+RKS System
+
+
+Silvally Steel
+RKS System
+
+
+Sirfetch’d
+Steadfast
+Scrappy
+
+Slowbro Galar
+['Quick Draw', 'Own Tempo']
+Regenerator
+
+Snorlax
+['Immunity', 'Thick Fat']
+Gluttony
+
+Steelix
+['Rock Head', 'Sturdy']
+Sheer Force
+
+Tauros
+['Intimidate', 'Anger Point']
+Sheer Force
+
+Umbreon
+Synchronize
+Inner Focus
+
+Vanilluxe
+['Ice Body', 'Snow Warning']
+Weak Armor
+
+Vaporeon
+Water Absorb
+Hydration
+
+Vikavolt
+Levitate
+
+
+Vileplume
+Chlorophyll
+Effect Spore
+
+Whimsicott
+['Prankster', 'Infiltrator']
+Chlorophyll
+
+Xatu
+['Synchronize', 'Early Bird']
+Magic Bounce
+
+Zoroark
+Illusion
+
+
+an error has occured
+<h3>NUBL</h3>
+Gallade
+Steadfast
+Justified
+
+Haunter
+Levitate
+
+
+Kingler
+['Hyper Cutter', 'Shell Armor']
+Sheer Force
+
+Sneasel
+['Inner Focus', 'Keen Eye']
+Pickpocket
+
+Turtonator
+Shell Armor
+
+
+an error has occured
+<h3>NU</h3>
+Abomasnow
+Snow Warning
+Soundproof
+
+Accelgor
+['Hydration', 'Sticky Hold']
+Unburden
+
+Alcremie
+Sweet Veil
+Aroma Veil
+
+Arctovish
+['Water Absorb', 'Ice Body']
+Slush Rush
+
+Avalugg
+['Own Tempo', 'Ice Body']
+Sturdy
+
+Basculin
+['Reckless', 'Adaptability']
+Mold Breaker
+
+Basculin Blue-Striped
+['Rock Head', 'Adaptability']
+Mold Breaker
+
+Bouffalant
+['Reckless', 'Sap Sipper']
+Soundproof
+
+Clefairy
+['Cute Charm', 'Magic Guard']
+Friend Guard
+
+Cofagrigus
+Mummy
+
+
+Cramorant
+Gulp Missile
+
+
+Cursola
+Weak Armor
+Perish Body
+
+Decidueye
+Overgrow
+Long Reach
+
+Ditto
+Limber
+Imposter
+
+Eldegoss
+['Cotton Down', 'Regenerator']
+Effect Spore
+
+Ferroseed
+Iron Barbs
+
+
+Froslass
+Snow Cloak
+Cursed Body
+
+Garbodor
+['Stench', 'Weak Armor']
+Aftermath
+
+Golurk
+['Iron Fist', 'Klutz']
+No Guard
+
+Gourgeist Small
+['Pickup', 'Frisk']
+Insomnia
+
+Gurdurr
+['Guts', 'Sheer Force']
+Iron Fist
+
+Hitmontop
+['Intimidate', 'Technician']
+Steadfast
+
+Jolteon
+Volt Absorb
+Quick Feet
+
+Kangaskhan
+['Early Bird', 'Scrappy']
+Inner Focus
+
+Lanturn
+['Volt Absorb', 'Illuminate']
+Water Absorb
+
+Liepard
+['Limber', 'Unburden']
+Prankster
+
+Lurantis
+Leaf Guard
+Contrary
+
+Luxray
+['Rivalry', 'Intimidate']
+Guts
+
+Magneton
+['Magnet Pull', 'Sturdy']
+Analytic
+
+Malamar
+['Contrary', 'Suction Cups']
+Infiltrator
+
+Miltank
+['Thick Fat', 'Scrappy']
+Sap Sipper
+
+Ninjask
+Speed Boost
+Infiltrator
+
+Persian Alola
+['Fur Coat', 'Technician']
+Rattled
+
+Piloswine
+['Oblivious', 'Snow Cloak']
+Thick Fat
+
+Politoed
+['Water Absorb', 'Damp']
+Drizzle
+
+Quagsire
+['Damp', 'Water Absorb']
+Unaware
+
+Qwilfish
+['Poison Point', 'Swift Swim']
+Intimidate
+
+Rapidash
+['Run Away', 'Flash Fire']
+Flame Body
+
+Rotom
+Levitate
+
+
+Rotom Fan
+Levitate
+
+
+Rotom Frost
+Levitate
+
+
+Sandaconda
+['Sand Spit', 'Shed Skin']
+Sand Veil
+
+Sawk
+['Sturdy', 'Inner Focus']
+Mold Breaker
+
+Silvally Dark
+RKS System
+
+
+Silvally Dragon
+RKS System
+
+
+Silvally Ghost
+RKS System
+
+
+Silvally Water
+RKS System
+
+
+Skuntank
+['Stench', 'Aftermath']
+Keen Eye
+
+Stunfisk Galar
+Mimicry
+
+
+Thwackey
+Overgrow
+Grassy Surge
+
+Togedemaru
+['Iron Barbs', 'Lightning Rod']
+Sturdy
+
+Toxicroak
+['Anticipation', 'Dry Skin']
+Poison Touch
+
+Weezing
+['Levitate', 'Neutralizing Gas']
+Stench
+
+Wishiwashi
+Schooling
+
+
+an error has occured
+<h3>PUBL</h3>
+Arctozolt
+['Volt Absorb', 'Static']
+Slush Rush
+
+Butterfree
+Compound Eyes
+Tinted Lens
+
+Exeggutor
+Chlorophyll
+Harvest
+
+Gourgeist Super
+['Pickup', 'Frisk']
+Insomnia
+
+Noctowl
+['Insomnia', 'Keen Eye']
+Tinted Lens
+
+Orbeetle
+['Swarm', 'Frisk']
+Telepathy
+
+Perrserker
+['Battle Armor', 'Tough Claws']
+Steely Spirit
+
+Silvally
+RKS System
+
+
+Silvally Bug
+RKS System
+
+
+Silvally Electric
+RKS System
+
+
+Silvally Fighting
+RKS System
+
+
+Silvally Fire
+RKS System
+
+
+Silvally Flying
+RKS System
+
+
+Silvally Grass
+RKS System
+
+
+Silvally Ground
+RKS System
+
+
+Silvally Poison
+RKS System
+
+
+Silvally Psychic
+RKS System
+
+
+an error has occured
+<h3>PU</h3>
+Appletun
+['Ripen', 'Gluttony']
+Thick Fat
+
+Boltund
+Strong Jaw
+Competitive
+
+Crustle
+['Sturdy', 'Shell Armor']
+Weak Armor
+
+Drednaw
+['Strong Jaw', 'Shell Armor']
+Swift Swim
+
+Drifblim
+['Aftermath', 'Unburden']
+Flare Boost
+
+Dubwool
+['Fluffy', 'Steadfast']
+Bulletproof
+
+Dugtrio
+['Sand Veil', 'Arena Trap']
+Sand Force
+
+Dugtrio Alola
+['Sand Veil', 'Tangling Hair']
+Sand Force
+
+Dusknoir
+Pressure
+Frisk
+
+Falinks
+Battle Armor
+Defiant
+
+Flapple
+['Ripen', 'Gluttony']
+Hustle
+
+Flareon
+Flash Fire
+Guts
+
+Glaceon
+Snow Cloak
+Ice Body
+
+Golduck
+['Damp', 'Cloud Nine']
+Swift Swim
+
+Gourgeist
+['Pickup', 'Frisk']
+Insomnia
+
+Hattrem
+['Healer', 'Anticipation']
+Magic Bounce
+
+Heatmor
+['Gluttony', 'Flash Fire']
+White Smoke
+
+Hitmonchan
+['Keen Eye', 'Iron Fist']
+Inner Focus
+
+Kadabra
+['Synchronize', 'Inner Focus']
+Magic Guard
+
+Klinklang
+['Plus', 'Minus']
+Clear Body
+
+Lapras
+['Water Absorb', 'Shell Armor']
+Hydration
+
+Lickilicky
+['Own Tempo', 'Oblivious']
+Cloud Nine
+
+Lilligant
+['Chlorophyll', 'Own Tempo']
+Leaf Guard
+
+Lycanroc Midnight
+['Keen Eye', 'Vital Spirit']
+No Guard
+
+Manectric
+['Static', 'Lightning Rod']
+Minus
+
+Mareanie
+['Merciless', 'Limber']
+Regenerator
+
+Marowak
+['Rock Head', 'Lightning Rod']
+Battle Armor
+
+Mawile
+['Hyper Cutter', 'Intimidate']
+Sheer Force
+
+Meowstic
+['Keen Eye', 'Infiltrator']
+Prankster
+
+Meowstic F
+['Keen Eye', 'Infiltrator']
+Competitive
+
+Morpeko
+Hunger Switch
+
+
+Mr. Rime
+['Tangled Feet', 'Screen Cleaner']
+Ice Body
+
+Pawniard
+['Defiant', 'Inner Focus']
+Pressure
+
+Pinsir
+['Hyper Cutter', 'Mold Breaker']
+Moxie
+
+Raboot
+Blaze
+Libero
+
+Rapidash Galar
+['Run Away', 'Pastel Veil']
+Anticipation
+
+Roselia
+['Natural Cure', 'Poison Point']
+Leaf Guard
+
+Sandslash
+Sand Veil
+Sand Rush
+
+Shuckle
+['Sturdy', 'Gluttony']
+Contrary
+
+Silvally Rock
+RKS System
+
+
+Stunfisk
+['Static', 'Limber']
+Sand Veil
+
+Tangela
+['Chlorophyll', 'Leaf Guard']
+Regenerator
+
+Thievul
+['Run Away', 'Unburden']
+Stakeout
+
+Throh
+['Guts', 'Inner Focus']
+Mold Breaker
+
+Type: Null
+Battle Armor
+
+
+Unfezant
+['Big Pecks', 'Super Luck']
+Rivalry
+
+Wigglytuff
+['Cute Charm', 'Competitive']
+Frisk
+
+an error has occured
+<h3>Below PU</h3>
+Beartic
+['Snow Cloak', 'Slush Rush']
+Swift Swim
+
+Beheeyem
+['Telepathy', 'Synchronize']
+Analytic
+
+Bellossom
+Chlorophyll
+Healer
+
+Cherrim
+Flower Gift
+
+
+Corsola
+['Hustle', 'Natural Cure']
+Regenerator
+
+Dedenne
+['Cheek Pouch', 'Pickup']
+Plus
+
+Delibird
+['Vital Spirit', 'Hustle']
+Insomnia
+
+Dunsparce
+['Serene Grace', 'Run Away']
+Rattled
+
+Eiscue
+Ice Face
+
+
+Emolga
+Static
+Motor Drive
+
+Farfetch’d
+['Keen Eye', 'Inner Focus']
+Defiant
+
+Glalie
+['Inner Focus', 'Ice Body']
+Moody
+
+Gothitelle
+['Frisk', 'Competitive']
+Shadow Tag
+
+Gourgeist Large
+['Pickup', 'Frisk']
+Insomnia
+
+Grapploct
+Limber
+Technician
+
+Greedent
+Cheek Pouch
+Gluttony
+
+Leafeon
+Leaf Guard
+Chlorophyll
+
+Lopunny
+['Cute Charm', 'Klutz']
+Limber
+
+Ludicolo
+['Swift Swim', 'Rain Dish']
+Own Tempo
+
+Lunatone
+Levitate
+
+
+Maractus
+['Water Absorb', 'Chlorophyll']
+Storm Drain
+
+Meltan
+Magnet Pull
+
+
+Mr. Mime
+['Soundproof', 'Filter']
+Technician
+
+Musharna
+['Forewarn', 'Synchronize']
+Telepathy
+
+Octillery
+['Suction Cups', 'Sniper']
+Moody
+
+Oranguru
+['Inner Focus', 'Telepathy']
+Symbiosis
+
+Persian
+['Limber', 'Technician']
+Unnerve
+
+Pikachu Alola
+Static
+Lightning Rod
+
+Pikachu Hoenn
+Static
+Lightning Rod
+
+Pikachu Kalos
+Static
+Lightning Rod
+
+Pikachu Original
+Static
+Lightning Rod
+
+Pikachu Partner
+Static
+Lightning Rod
+
+Pikachu Sinnoh
+Static
+Lightning Rod
+
+Pikachu Unova
+Static
+Lightning Rod
+
+Pyukumuku
+Innards Out
+Unaware
+
+Raichu
+Static
+Lightning Rod
+
+Seaking
+['Swift Swim', 'Water Veil']
+Lightning Rod
+
+Shedinja
+Wonder Guard
+
+
+Shiinotic
+['Illuminate', 'Effect Spore']
+Rain Dish
+
+Silvally Ice
+RKS System
+
+
+Solrock
+Levitate
+
+
+Stonjourner
+Power Spot
+
+
+Stoutland
+['Intimidate', 'Sand Rush']
+Scrappy
+
+Sudowoodo
+['Sturdy', 'Rock Head']
+Rattled
+
+Swoobat
+['Unaware', 'Klutz']
+Simple
+
+Trevenant
+['Natural Cure', 'Frisk']
+Harvest
+
+Vespiquen
+Pressure
+Unnerve
+
+Wailord
+['Water Veil', 'Oblivious']
+Pressure
+
+Whiscash
+['Oblivious', 'Anticipation']
+Hydration
+
+Wobbuffet
+Shadow Tag
+Telepathy
+
+an error has occured
+<h3>NFEs not in a higher tier</h3>
+Boldore
+['Sturdy', 'Weak Armor']
+Sand Force
+
+Brionne
+Torrent
+Liquid Voice
+
+Carkol
+['Steam Engine', 'Flame Body']
+Flash Fire
+
+Charjabug
+Battery
+
+
+Charmeleon
+Blaze
+Solar Power
+
+Corvisquire
+['Keen Eye', 'Unnerve']
+Big Pecks
+
+Cosmoem
+Sturdy
+
+
+Dartrix
+Overgrow
+Long Reach
+
+Dottler
+['Swarm', 'Compound Eyes']
+Telepathy
+
+Drakloak
+['Clear Body', 'Infiltrator']
+Cursed Body
+
+Drizzile
+Torrent
+Sniper
+
+Duosion
+['Overcoat', 'Magic Guard']
+Regenerator
+
+Dusclops
+Pressure
+Frisk
+
+Fletchinder
+Flame Body
+Gale Wings
+
+Fraxure
+['Rivalry', 'Mold Breaker']
+Unnerve
+
+Gloom
+Chlorophyll
+Stench
+
+Gothorita
+['Frisk', 'Competitive']
+Shadow Tag
+
+Hakamo-o
+['Bulletproof', 'Soundproof']
+Overcoat
+
+Herdier
+['Intimidate', 'Sand Rush']
+Scrappy
+
+Ivysaur
+Overgrow
+Chlorophyll
+
+Jigglypuff
+['Cute Charm', 'Competitive']
+Friend Guard
+
+Kirlia
+['Synchronize', 'Trace']
+Telepathy
+
+Klang
+['Plus', 'Minus']
+Clear Body
+
+Krokorok
+['Intimidate', 'Moxie']
+Anger Point
+
+Kubfu
+Inner Focus
+
+
+Lampent
+['Flash Fire', 'Flame Body']
+Infiltrator
+
+Linoone Galar
+['Pickup', 'Gluttony']
+Quick Feet
+
+Lombre
+['Swift Swim', 'Rain Dish']
+Own Tempo
+
+Loudred
+Soundproof
+Scrappy
+
+Luxio
+['Rivalry', 'Intimidate']
+Guts
+
+Machoke
+['Guts', 'No Guard']
+Steadfast
+
+Marill
+['Thick Fat', 'Huge Power']
+Sap Sipper
+
+Metapod
+Shed Skin
+
+
+Morgrem
+['Prankster', 'Frisk']
+Pickpocket
+
+Mr. Mime Galar
+['Vital Spirit', 'Screen Cleaner']
+Ice Body
+
+Nuzleaf
+['Chlorophyll', 'Early Bird']
+Pickpocket
+
+Palpitoad
+['Swift Swim', 'Hydration']
+Water Absorb
+
+Pikachu
+Static
+Lightning Rod
+
+Poliwhirl
+['Water Absorb', 'Damp']
+Swift Swim
+
+Pupitar
+Shed Skin
+
+
+Seadra
+['Poison Point', 'Sniper']
+Damp
+
+Sliggoo
+['Sap Sipper', 'Hydration']
+Gooey
+
+Steenee
+['Leaf Guard', 'Oblivious']
+Sweet Veil
+
+Togetic
+['Hustle', 'Serene Grace']
+Super Luck
+
+Torracat
+Blaze
+Intimidate
+
+Tranquill
+['Big Pecks', 'Super Luck']
+Rivalry
+
+Vanillish
+['Ice Body', 'Snow Cloak']
+Weak Armor
+
+Vibrava
+Levitate
+
+
+Wartortle
+Torrent
+Rain Dish
+
+Whirlipede
+['Poison Point', 'Swarm']
+Speed Boost
+
+Zweilous
+Hustle
+
+
+an error has occured
+<h3>LC Uber</h3>
+Cherubi
+Chlorophyll
+
+
+Cutiefly
+['Honey Gather', 'Shield Dust']
+Sweet Veil
+
+Drifloon
+['Aftermath', 'Unburden']
+Flare Boost
+
+Gastly
+Levitate
+
+
+Gothita
+['Frisk', 'Competitive']
+Shadow Tag
+
+Swirlix
+Sweet Veil
+Unburden
+
+Vulpix Alola
+Snow Cloak
+Snow Warning
+
+an error has occured
+<h3>LC</h3>
+Abra
+['Synchronize', 'Inner Focus']
+Magic Guard
+
+Applin
+['Ripen', 'Gluttony']
+Bulletproof
+
+Arrokuda
+Swift Swim
+Propeller Tail
+
+Axew
+['Rivalry', 'Mold Breaker']
+Unnerve
+
+Azurill
+['Thick Fat', 'Huge Power']
+Sap Sipper
+
+Baltoy
+Levitate
+
+
+Barboach
+['Oblivious', 'Anticipation']
+Hydration
+
+Bergmite
+['Own Tempo', 'Ice Body']
+Sturdy
+
+Binacle
+['Tough Claws', 'Sniper']
+Pickpocket
+
+Blipbug
+['Swarm', 'Compound Eyes']
+Telepathy
+
+Bonsly
+['Sturdy', 'Rock Head']
+Rattled
+
+Bounsweet
+['Leaf Guard', 'Oblivious']
+Sweet Veil
+
+Bronzor
+['Levitate', 'Heatproof']
+Heavy Metal
+
+Budew
+['Natural Cure', 'Poison Point']
+Leaf Guard
+
+Bulbasaur
+Overgrow
+Chlorophyll
+
+Buneary
+['Run Away', 'Klutz']
+Limber
+
+Bunnelby
+['Pickup', 'Cheek Pouch']
+Huge Power
+
+Carvanha
+Rough Skin
+Speed Boost
+
+Caterpie
+Shield Dust
+Run Away
+
+Charmander
+Blaze
+Solar Power
+
+Chewtle
+['Strong Jaw', 'Shell Armor']
+Swift Swim
+
+Chinchou
+['Volt Absorb', 'Illuminate']
+Water Absorb
+
+Clauncher
+Mega Launcher
+
+
+Cleffa
+['Cute Charm', 'Magic Guard']
+Friend Guard
+
+Clobbopus
+Limber
+Technician
+
+Combee
+Honey Gather
+Hustle
+
+Corphish
+['Hyper Cutter', 'Shell Armor']
+Adaptability
+
+Cosmog
+Unaware
+
+
+Cottonee
+['Prankster', 'Infiltrator']
+Chlorophyll
+
+Croagunk
+['Anticipation', 'Dry Skin']
+Poison Touch
+
+Cubchoo
+['Snow Cloak', 'Slush Rush']
+Rattled
+
+Cubone
+['Rock Head', 'Lightning Rod']
+Battle Armor
+
+Cufant
+Sheer Force
+Heavy Metal
+
+Darumaka
+Hustle
+Inner Focus
+
+Darumaka Galar
+Hustle
+Inner Focus
+
+Deino
+Hustle
+
+
+Dewpider
+Water Bubble
+Water Absorb
+
+Diglett
+['Sand Veil', 'Arena Trap']
+Sand Force
+
+Diglett Alola
+['Sand Veil', 'Tangling Hair']
+Sand Force
+
+Dreepy
+['Clear Body', 'Infiltrator']
+Cursed Body
+
+Drilbur
+['Sand Rush', 'Sand Force']
+Mold Breaker
+
+Duskull
+Levitate
+Frisk
+
+Dwebble
+['Sturdy', 'Shell Armor']
+Weak Armor
+
+Eevee
+['Run Away', 'Adaptability']
+Anticipation
+
+Electrike
+['Static', 'Lightning Rod']
+Minus
+
+Elgyem
+['Telepathy', 'Synchronize']
+Analytic
+
+Espurr
+['Keen Eye', 'Infiltrator']
+Own Tempo
+
+Exeggcute
+Chlorophyll
+Harvest
+
+Farfetch’d Galar
+Steadfast
+Scrappy
+
+Feebas
+['Swift Swim', 'Oblivious']
+Adaptability
+
+Fletchling
+Big Pecks
+Gale Wings
+
+Fomantis
+Leaf Guard
+Contrary
+
+Foongus
+Effect Spore
+Regenerator
+
+Frillish
+['Water Absorb', 'Cursed Body']
+Damp
+
+Goldeen
+['Swift Swim', 'Water Veil']
+Lightning Rod
+
+Golett
+['Iron Fist', 'Klutz']
+No Guard
+
+Goomy
+['Sap Sipper', 'Hydration']
+Gooey
+
+Gossifleur
+['Cotton Down', 'Regenerator']
+Effect Spore
+
+Grookey
+Overgrow
+Grassy Surge
+
+Growlithe
+['Intimidate', 'Flash Fire']
+Justified
+
+Grubbin
+Swarm
+
+
+Happiny
+['Natural Cure', 'Serene Grace']
+Friend Guard
+
+Hatenna
+['Healer', 'Anticipation']
+Magic Bounce
+
+Helioptile
+['Dry Skin', 'Sand Veil']
+Solar Power
+
+Hippopotas
+Sand Stream
+Sand Force
+
+Honedge
+No Guard
+
+
+Hoothoot
+['Insomnia', 'Keen Eye']
+Tinted Lens
+
+Horsea
+['Swift Swim', 'Sniper']
+Damp
+
+Igglybuff
+['Cute Charm', 'Competitive']
+Friend Guard
+
+Impidimp
+['Prankster', 'Frisk']
+Pickpocket
+
+Inkay
+['Contrary', 'Suction Cups']
+Infiltrator
+
+Jangmo-o
+['Bulletproof', 'Soundproof']
+Overcoat
+
+Joltik
+['Compound Eyes', 'Unnerve']
+Swarm
+
+Karrablast
+['Swarm', 'Shed Skin']
+No Guard
+
+Klink
+['Plus', 'Minus']
+Clear Body
+
+Koffing
+['Levitate', 'Neutralizing Gas']
+Stench
+
+Krabby
+['Hyper Cutter', 'Shell Armor']
+Sheer Force
+
+Larvesta
+Flame Body
+Swarm
+
+Larvitar
+Guts
+Sand Veil
+
+Lickitung
+['Own Tempo', 'Oblivious']
+Cloud Nine
+
+Lillipup
+['Vital Spirit', 'Pickup']
+Run Away
+
+Litten
+Blaze
+Intimidate
+
+Litwick
+['Flash Fire', 'Flame Body']
+Infiltrator
+
+Lotad
+['Swift Swim', 'Rain Dish']
+Own Tempo
+
+Machop
+['Guts', 'No Guard']
+Steadfast
+
+Magikarp
+Swift Swim
+Rattled
+
+Magnemite
+['Magnet Pull', 'Sturdy']
+Analytic
+
+Mantyke
+['Swift Swim', 'Water Absorb']
+Water Veil
+
+Meowth
+['Pickup', 'Technician']
+Unnerve
+
+Meowth Alola
+['Pickup', 'Technician']
+Rattled
+
+Meowth Galar
+['Pickup', 'Tough Claws']
+Unnerve
+
+Mienfoo
+['Inner Focus', 'Regenerator']
+Reckless
+
+Milcery
+Sweet Veil
+Aroma Veil
+
+Mime Jr.
+['Soundproof', 'Filter']
+Technician
+
+Minccino
+['Cute Charm', 'Technician']
+Skill Link
+
+Morelull
+['Illuminate', 'Effect Spore']
+Rain Dish
+
+Mudbray
+['Own Tempo', 'Stamina']
+Inner Focus
+
+Munchlax
+['Pickup', 'Thick Fat']
+Gluttony
+
+Munna
+['Forewarn', 'Synchronize']
+Telepathy
+
+Natu
+['Synchronize', 'Early Bird']
+Magic Bounce
+
+Nickit
+['Run Away', 'Unburden']
+Stakeout
+
+Nincada
+Compound Eyes
+Run Away
+
+Noibat
+['Frisk', 'Infiltrator']
+Telepathy
+
+Oddish
+Chlorophyll
+Run Away
+
+Onix
+['Rock Head', 'Sturdy']
+Weak Armor
+
+Pancham
+['Iron Fist', 'Mold Breaker']
+Scrappy
+
+Petilil
+['Chlorophyll', 'Own Tempo']
+Leaf Guard
+
+Phantump
+['Natural Cure', 'Frisk']
+Harvest
+
+Pichu
+Static
+Lightning Rod
+
+Pidove
+['Big Pecks', 'Super Luck']
+Rivalry
+
+Poliwag
+['Water Absorb', 'Damp']
+Swift Swim
+
+Ponyta
+['Run Away', 'Flash Fire']
+Flame Body
+
+Ponyta Galar
+['Run Away', 'Pastel Veil']
+Anticipation
+
+Popplio
+Torrent
+Liquid Voice
+
+Porygon
+['Trace', 'Download']
+Analytic
+
+Psyduck
+['Damp', 'Cloud Nine']
+Swift Swim
+
+Pumpkaboo
+['Pickup', 'Frisk']
+Insomnia
+
+Pumpkaboo Large
+['Pickup', 'Frisk']
+Insomnia
+
+Pumpkaboo Small
+['Pickup', 'Frisk']
+Insomnia
+
+Pumpkaboo Super
+['Pickup', 'Frisk']
+Insomnia
+
+Purrloin
+['Limber', 'Unburden']
+Prankster
+
+Ralts
+['Synchronize', 'Trace']
+Telepathy
+
+Remoraid
+['Hustle', 'Sniper']
+Moody
+
+Rhyhorn
+['Lightning Rod', 'Rock Head']
+Reckless
+
+Riolu
+['Steadfast', 'Inner Focus']
+Prankster
+
+Rockruff
+['Keen Eye', 'Vital Spirit']
+Steadfast<br>Own Tempo
+
+Roggenrola
+['Sturdy', 'Weak Armor']
+Sand Force
+
+Rolycoly
+['Steam Engine', 'Heatproof']
+Flash Fire
+
+Rookidee
+['Keen Eye', 'Unnerve']
+Big Pecks
+
+Rowlet
+Overgrow
+Long Reach
+
+Rufflet
+['Keen Eye', 'Sheer Force']
+Hustle
+
+Salandit
+Corrosion
+Oblivious
+
+Sandile
+['Intimidate', 'Moxie']
+Anger Point
+
+Sandshrew
+Sand Veil
+Sand Rush
+
+Sandshrew Alola
+Snow Cloak
+Slush Rush
+
+Sandygast
+Water Compaction
+Sand Veil
+
+Scorbunny
+Blaze
+Libero
+
+Scraggy
+['Shed Skin', 'Moxie']
+Intimidate
+
+Seedot
+['Chlorophyll', 'Early Bird']
+Pickpocket
+
+Shellder
+['Shell Armor', 'Skill Link']
+Overcoat
+
+Shellos
+['Sticky Hold', 'Storm Drain']
+Sand Force
+
+Shelmet
+['Hydration', 'Shell Armor']
+Overcoat
+
+Shinx
+['Rivalry', 'Intimidate']
+Guts
+
+Silicobra
+['Sand Spit', 'Shed Skin']
+Sand Veil
+
+Sinistea
+Weak Armor
+Cursed Body
+
+Sinistea Antique
+Weak Armor
+Cursed Body
+
+Sizzlipede
+['Flash Fire', 'White Smoke']
+Flame Body
+
+Skorupi
+['Battle Armor', 'Sniper']
+Keen Eye
+
+Skrelp
+['Poison Point', 'Poison Touch']
+Adaptability
+
+Skwovet
+Cheek Pouch
+Gluttony
+
+Slowpoke
+['Oblivious', 'Own Tempo']
+Regenerator
+
+Slowpoke Galar
+['Gluttony', 'Own Tempo']
+Regenerator
+
+Snom
+Shield Dust
+Ice Scales
+
+Snorunt
+['Inner Focus', 'Ice Body']
+Moody
+
+Snover
+Snow Warning
+Soundproof
+
+Sobble
+Torrent
+Sniper
+
+Solosis
+['Overcoat', 'Magic Guard']
+Regenerator
+
+Spritzee
+Healer
+Aroma Veil
+
+Squirtle
+Torrent
+Rain Dish
+
+Staryu
+['Illuminate', 'Natural Cure']
+Analytic
+
+Stufful
+['Fluffy', 'Klutz']
+Cute Charm
+
+Stunky
+['Stench', 'Aftermath']
+Keen Eye
+
+Swinub
+['Oblivious', 'Snow Cloak']
+Thick Fat
+
+Tentacool
+['Clear Body', 'Liquid Ooze']
+Rain Dish
+
+Timburr
+['Guts', 'Sheer Force']
+Iron Fist
+
+Togepi
+['Hustle', 'Serene Grace']
+Super Luck
+
+Toxel
+['Rattled', 'Static']
+Klutz
+
+Trapinch
+['Hyper Cutter', 'Arena Trap']
+Sheer Force
+
+Trubbish
+['Stench', 'Sticky Hold']
+Aftermath
+
+Tympole
+['Swift Swim', 'Hydration']
+Water Absorb
+
+Tyrogue
+['Guts', 'Steadfast']
+Vital Spirit
+
+Vanillite
+['Ice Body', 'Snow Cloak']
+Weak Armor
+
+Venipede
+['Poison Point', 'Swarm']
+Speed Boost
+
+Vullaby
+['Big Pecks', 'Overcoat']
+Weak Armor
+
+Vulpix
+Flash Fire
+Drought
+
+Wailmer
+['Water Veil', 'Oblivious']
+Pressure
+
+Whismur
+Soundproof
+Rattled
+
+Wimpod
+Wimp Out
+
+
+Wingull
+['Keen Eye', 'Hydration']
+Rain Dish
+
+Woobat
+['Unaware', 'Klutz']
+Simple
+
+Wooloo
+['Fluffy', 'Run Away']
+Bulletproof
+
+Wooper
+['Damp', 'Water Absorb']
+Unaware
+
+Wynaut
+Shadow Tag
+Telepathy
+
+Yamask
+Mummy
+
+
+Yamask Galar
+Wandering Spirit
+
+
+Yamper
+Ball Fetch
+Rattled
+
+Zigzagoon
+['Pickup', 'Gluttony']
+Quick Feet
+
+Zigzagoon Galar
+['Pickup', 'Gluttony']
+Quick Feet
+
+Zorua
+Illusion
+
+
 [
     {
         "name": "Alakazam",
